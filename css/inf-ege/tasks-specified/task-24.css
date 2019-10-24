@@ -1,0 +1,16 @@
+.task-24-objectives {
+    list-style: none;
+    counter-reset: task-24-objectives;
+}
+
+.task-24-objectives > * {
+    padding-left: 8mm;
+}
+
+.task-24-objectives > ::before {
+    display: block;
+    position: absolute;
+    margin-left: -4mm;
+    counter-increment: task-24-objectives;
+    content: counter(task-24-objectives) ')\a0';
+}

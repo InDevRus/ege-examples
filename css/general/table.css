@@ -1,0 +1,21 @@
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    font-family: inherit;
+    font-size: inherit;
+    text-align: center;
+    vertical-align: center;
+}
+
+td, th {
+    border: .25mm solid black;
+    min-width: 5mm;
+    padding: 0 .75mm;
+}
+
+td.gray-cell, th.gray-cell {
+    background: lightgray;
+}

@@ -1,0 +1,9 @@
+ol.logical-operators {
+    list-style: none;
+    counter-reset: logical-operators;
+}
+
+ol.logical-operators > ::before {
+    counter-increment: logical-operators;
+    content: counter(logical-operators, lower-alpha) ')\00a0';
+}

@@ -1,0 +1,8 @@
+article.page::after {
+    display: block;
+    font-size: 7.58pt;
+    margin-bottom: 10mm;
+    content: '\a9\a0' var(--author) ', ' var(--date);
+    justify-self: flex-end;
+    align-self: end;
+}

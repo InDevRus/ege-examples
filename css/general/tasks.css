@@ -1,0 +1,64 @@
+html {
+    counter-reset: task;
+}
+
+section.task, section.task-continue {
+    text-align: justify;
+}
+
+section.task:not(.sub-task),
+.sub-task-start + article.page {
+    counter-increment: task;
+    counter-reset: sub-task;
+}
+
+.sub-task-start {
+    display: none;
+}
+
+section.task.sub-task {
+    counter-increment: sub-task;
+}
+
+.sub-task-start + article.page > .reminder:first-of-type {
+    text-align: center;
+}
+
+section.task::before {
+    margin-left: -12.4mm;
+    display: block;
+    position: absolute;
+    content: counter(task);
+    font-weight: bold;
+    text-align: center;
+
+    outline: .25mm black solid;
+    outline-offset: .5mm;
+    width: 8.5mm;
+}
+
+section.sub-task::before {
+    content: counter(task) '.' counter(sub-task);
+}
+
+section.task:not(.no-answer-field)::after,
+section.task-continue:not(.no-answer-field)::after {
+    display: block;
+    margin-top: 5mm;
+    margin-bottom: 7mm;
+    content: 'Ответ: ___________________________.';
+}
+
+#detailed-part-start {
+    display: none;
+}
+
+#detailed-part-start ~ article.page section.task::after,
+#detailed-part-start ~ article.page section.task-continue::after {
+    display: none;
+}
+
+#detailed-part-start ~ article.page section.task,
+#detailed-part-start ~ article.page section.task-continue {
+    margin-bottom: 7mm;
+}

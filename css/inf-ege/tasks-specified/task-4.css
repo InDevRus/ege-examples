@@ -1,0 +1,32 @@
+div.task-4-file-list {
+    font-weight: bold;
+    text-justify: distribute;
+    text-align-last: justify;
+}
+
+ol.task-4-mask-list {
+    list-style-type: none;
+    counter-reset: masks;
+}
+
+ol.task-4-mask-list > li {
+    font-weight: bold;
+    counter-increment: masks;
+}
+
+ol.task-4-mask-list > *::before {
+    font-weight: normal;
+    content: counter(masks)'.\a0';
+}
+
+div.task-4-tables {
+    display: flex;
+}
+
+div.task-4-tables > table {
+    flex-grow: 1;
+}
+
+div.task-4-tables > table:not(:last-child) {
+    margin-right: 2mm;
+}

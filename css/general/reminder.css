@@ -1,0 +1,35 @@
+.reminder {
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+    outline-offset: 1.10mm;
+    outline: 0.25mm black solid;
+}
+
+.reminder.sub-task-start {
+    text-align: center;
+}
+
+:not(.reminder-box) > div.reminder {
+    margin-top: 1mm;
+    margin-bottom: 5mm;
+    /* margin-bottom: 11.5mm; */
+}
+
+.reminder-box {
+    display: flex;
+    align-items: center;
+    margin-top: 5mm;
+    margin-bottom: 10mm;
+}
+
+.reminder-box > img.first-part-exclamation {
+    margin-left: -12.4mm;
+    height: 12mm;
+    margin-right: 5mm;
+}
+
+#detailed-part-start ~ article.page .reminder-box > img.first-part-exclamation {
+    height: 9mm;
+    width: 9mm;
+}

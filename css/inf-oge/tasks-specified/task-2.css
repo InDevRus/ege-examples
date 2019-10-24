@@ -1,0 +1,14 @@
+.encrypted {
+    text-align: center;
+}
+
+table.task-2-cipher {
+    margin: 1mm auto;
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+table.task-2-cipher tr:first-child td {
+    width: 12mm;
+    padding: 1mm 0 1mm 0;
+}

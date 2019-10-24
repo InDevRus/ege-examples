@@ -1,0 +1,24 @@
+table.horizontal-program-codes,
+table.vertical-program-codes {
+    margin: 1mm 0;
+    width: 100%;
+}
+
+table.horizontal-program-codes *,
+table.vertical-program-codes * {
+    text-align: left;
+    vertical-align: top;
+}
+
+table.horizontal-program-codes td, table.horizontal-program-codes th {
+    width: 50%;
+}
+
+table.horizontal-program-codes td,
+table.vertical-program-codes td {
+    font: 8.28pt 'Courier', monospace;
+}
+
+span.inline-code {
+    font-family: 'Courier', monospace;
+}

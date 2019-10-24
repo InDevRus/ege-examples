@@ -1,0 +1,15 @@
+body {
+    counter-reset: pages;
+}
+
+article.page {
+    counter-increment: pages;
+}
+
+article.page::before {
+    margin-bottom: 6.1mm;
+    font-size: 8.28pt;
+    text-align-last: justify;
+    word-spacing: -2px;
+    content: var(--document-name) '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0' var(--destination) '\a0\a0\a0\a0\a0\a0\a0\a0\a0' counter(pages) ' / ' var(--pages-count);
+}

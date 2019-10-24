@@ -1,0 +1,41 @@
+header.part-header {
+    text-align: center;
+    font-weight: bold;
+}
+
+div.two-columns {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+}
+
+div.two-columns > * {
+    justify-self: center;
+    align-self: center;
+}
+
+pre {
+    margin: 0;
+    font: inherit;
+}
+
+ol:not(.outside-position-list), ul:not(.outside-position-list) {
+    list-style-position: inside;
+}
+
+ol:not(.padding-list), ul:not(.padding-list) {
+    padding: 0;
+}
+
+ol:not(.margin-list), ul:not(.margin-list) {
+    margin: 0;
+}
+
+ol > li::before {
+    float: left;
+}
+
+span.no-break {
+    white-space: nowrap;
+}

@@ -1,0 +1,13 @@
+ol.task-7-parts {
+    counter-reset: task-7-parts;
+    list-style-type: none;
+}
+
+ol.task-7-parts > li {
+    margin: 2mm 0;
+}
+
+ol.task-7-parts > li::before {
+    content: counter(task-7-parts) ')\a0\a0';
+    counter-increment: task-7-parts;
+}

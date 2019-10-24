@@ -1,0 +1,12 @@
+table.task-2-table td:not(:last-child) {
+    width: 11mm;
+}
+
+table.task-2-table td:last-child {
+    width: 20mm;
+    font-weight: bold;
+}
+
+table.task-2-table td, table.task-2-table th {
+    height: 4mm;
+}

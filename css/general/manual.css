@@ -1,0 +1,61 @@
+article.manual h3, article.manual h4 {
+    text-align: center;
+}
+
+article.manual h3 {
+    margin-top: 4mm;
+    font-size: 11.05pt;
+}
+
+article.manual h4 {
+    margin-top: 4.75mm;
+    margin-bottom: 8mm;
+}
+
+article.manual > div:not(.form-example) {
+    text-indent: 8.6mm;
+}
+
+div.form-example {
+    line-height: 15mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div.form-example img {
+    margin: initial;
+    width: 65%;
+    height: 15mm;
+    object-fit: scale-down;
+}
+
+div.form-example div span {
+    font-weight: bold;
+    font: 12.42pt "Comic Sans MS";
+    border-bottom: .5mm black solid;
+}
+
+div.manual-marker {
+    position: absolute;
+    color: darkgray;
+    font-family: 'Arial Narrow', serif;
+    font-weight: bold;
+}
+
+div.kim-marker {
+    font-size: 9.64pt;
+    transform: translateY(-3mm) translateX(-10mm);
+}
+
+div.form-marker {
+    font-size: 6.91pt;
+    transform: translateY(-3mm) translateX(116mm);
+}
+
+div.good-luck-message {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 7mm;
+}

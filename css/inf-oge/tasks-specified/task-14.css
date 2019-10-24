@@ -1,0 +1,11 @@
+table.task-14-mini-table tr:first-child, table.task-14-mini-table td:first-child {
+    background: lightgray;
+    font-weight: bolder !important;
+    font-family: "Arial Black", serif;
+}
+
+ol.task-14-list li {
+    padding-left: 1mm;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
