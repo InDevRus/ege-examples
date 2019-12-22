@@ -1,3 +1,8 @@
+table.task-2-table tr:first-child tr,
+table.task-2-table tr:first-child th {
+    border: 2px black solid;
+}
+
 table.task-2-table td:not(:last-child) {
     width: 11mm;
 }

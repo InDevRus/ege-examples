@@ -13,14 +13,6 @@ ol.task-26-ordered-task-list > li::before, ul.task-26-conditions > li::before {
     margin-left: -4mm;
 }
 
-ol.task-26-ordered-task-list > li:nth-child(1)::before {
-    content: 'а)';
-}
-
-ol.task-26-ordered-task-list > li:nth-child(2)::before {
-    content: 'б)';
-}
-
 ul.task-26-conditions > li::before {
     content: '−';
 }

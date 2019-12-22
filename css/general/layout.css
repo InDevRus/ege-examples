@@ -3,13 +3,14 @@
 }
 
 body {
+    --default-font-size: 9.64pt;
     width: 297mm;
     margin: 0 auto;
     display: grid;
     grid-template-rows: 210mm;
     grid-template-columns: repeat(2, 1fr);
 
-    font: 9.64pt "Times New Roman";
+    font: var(--default-font-size) "Times New Roman";
 }
 
 article.page {

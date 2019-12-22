@@ -1,0 +1,16 @@
+table.task-13-example td:first-child {
+    width: 60%;
+}
+
+table.task-13-example td:nth-child(2) {
+    font: 9.5pt 'Arial', serif;
+    font-weight: bold;
+    text-align: start;
+    vertical-align: top;
+}
+
+table.task-13-example img {
+    margin: 1mm;
+    height: 2.54cm;
+    width: 4.72cm;
+}
