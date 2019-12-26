@@ -1,3 +1,12 @@
+table.task-14-mini-table {
+    white-space: nowrap;
+}
+
+table.task-14-mini-table * {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
 table.task-14-mini-table tr:first-child, table.task-14-mini-table td:first-child {
     background: lightgray;
     font-weight: bolder !important;

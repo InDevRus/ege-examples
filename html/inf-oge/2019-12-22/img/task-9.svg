@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg
+        version="1.1"
+        baseProfile="full"
+        xmlns="http://www.w3.org/2000/svg"
+        width="3.6966408538087103cm"
+        height="1.6996049902568784cm"
+        viewBox="0 0 259 119"
+>
+    <title>
+
+    </title>
+    <g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000"
+       stroke-miterlimit="10.000" stroke-linecap="square">
+        <g id="misc">
+        </g><!-- misc -->
+        <g id="layer0">
+            <clipPath id="clip9ce358cd-6378-411e-987d-10f5021c3ea4">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip1)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 23.402 77.432 L 77.816 32.106"/>
+                    <title>Vector u</title>
+                    <desc>Vector u: Vector(А, Б)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip1 -->
+            <clipPath id="clip675835c6-2ab0-4968-b6c6-a5e2170d94bb">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip2)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 88.573 23.146 L 80.056 34.796 L 75.576 29.417 z"/>
+                    <title>Vector u</title>
+                    <desc>Vector u: Vector(А, Б)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip2 -->
+            <clipPath id="clip97b0d509-dabf-4a98-b74b-475f75a86027">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip3)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 23.402 77.432 L 75.562 65.122"/>
+                    <title>Vector v</title>
+                    <desc>Vector v: Vector(А, В)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip3 -->
+            <clipPath id="clipadeff5a7-7ecf-4427-a12a-23d50de96c0c">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip4)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 89.187 61.906 L 76.366 68.529 L 74.758 61.716 z"/>
+                    <title>Vector v</title>
+                    <desc>Vector v: Vector(А, В)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip4 -->
+            <clipPath id="clip437f4004-0f3b-4136-8445-16589531bf5e">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip5)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 23.402 77.432 L 43.177 91.211"/>
+                    <title>Vector w</title>
+                    <desc>Vector w: Vector(А, Г)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip5 -->
+            <clipPath id="clipe3c6dc44-a35d-4727-b817-99e68942f3ab">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip6)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 54.664 99.215 L 41.176 94.083 L 45.178 88.339 z"/>
+                    <title>Vector w</title>
+                    <desc>Vector w: Vector(А, Г)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip6 -->
+            <clipPath id="clipfb6c8771-b50d-430f-92df-cf1d03b772c0">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip7)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 54.664 99.215 L 101.83 86.666"/>
+                    <title>Vector a</title>
+                    <desc>Vector a: Vector(Г, Д)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip7 -->
+            <clipPath id="clip2c57fe8d-3dff-40be-86fe-c84efd10e99e">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip8)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 115.36 83.067 L 102.73 90.049 L 100.93 83.284 z"/>
+                    <title>Vector a</title>
+                    <desc>Vector a: Vector(Г, Д)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip8 -->
+            <clipPath id="clipc648cc40-4555-487e-82ea-d64de2b0ceea">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip9)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 89.187 61.906 L 104.47 74.264"/>
+                    <title>Vector b</title>
+                    <desc>Vector b: Vector(В, Д)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip9 -->
+            <clipPath id="clip4f385805-23e3-46ec-af70-a0f5a80e3daf">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip10)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 115.36 83.067 L 102.27 76.986 L 106.67 71.543 z"/>
+                    <title>Vector b</title>
+                    <desc>Vector b: Vector(В, Д)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip10 -->
+            <clipPath id="clipfaec97e7-091f-4c97-8dfa-5b87557af79b">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip11)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 89.187 61.906 L 88.795 37.144"/>
+                    <title>Vector c</title>
+                    <desc>Vector c: Vector(В, Б)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip11 -->
+            <clipPath id="clip6c773206-629b-4671-8569-b637a5d48c96">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip12)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 88.573 23.146 L 92.294 37.089 L 85.295 37.200 z"/>
+                    <title>Vector c</title>
+                    <desc>Vector c: Vector(В, Б)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip12 -->
+            <clipPath id="clip3da6d252-bfdc-477b-8716-b8f04148b7f0">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip13)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 89.187 61.906 L 141.61 32.079"/>
+                    <title>Vector d</title>
+                    <desc>Vector d: Vector(В, Е)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip13 -->
+            <clipPath id="clip6b1a3874-a555-4249-92c4-27617da3e39a">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip14)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 153.78 25.155 L 143.34 35.121 L 139.88 29.037 z"/>
+                    <title>Vector d</title>
+                    <desc>Vector d: Vector(В, Е)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip14 -->
+            <clipPath id="clip4f042ac2-b140-484c-8177-9b17854241bd">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip15)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 88.573 23.146 L 139.79 24.724"/>
+                    <title>Vector e</title>
+                    <desc>Vector e: Vector(Б, Е)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip15 -->
+            <clipPath id="clip327a9972-415f-4a95-854a-5a8dc80c1fbe">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip16)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 153.78 25.155 L 139.68 28.222 L 139.89 21.226 z"/>
+                    <title>Vector e</title>
+                    <desc>Vector e: Vector(Б, Е)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip16 -->
+            <clipPath id="clip9b858011-1df6-4423-bf05-7e7275c5d97d">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip17)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 115.36 83.067 L 168.18 83.506"/>
+                    <title>Vector f</title>
+                    <desc>Vector f: Vector(Д, Ж)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip17 -->
+            <clipPath id="clip3538848b-21e5-4164-a425-e23690f25912">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip18)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 182.18 83.623 L 168.15 87.006 L 168.21 80.007 z"/>
+                    <title>Vector f</title>
+                    <desc>Vector f: Vector(Д, Ж)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip18 -->
+            <clipPath id="clip3ce34660-1673-4bc3-9d83-52a31392d4e2">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip19)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 153.78 25.155 L 181.39 25.673"/>
+                    <title>Vector h</title>
+                    <desc>Vector h: Vector(Е, З)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip19 -->
+            <clipPath id="clipe70ef3e2-dfd2-4103-9a32-d5da764cda62">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip20)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 195.39 25.935 L 181.32 29.172 L 181.45 22.173 z"/>
+                    <title>Vector h</title>
+                    <desc>Vector h: Vector(Е, З)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip20 -->
+            <clipPath id="clipead7a508-4f6b-4010-8a63-17ca13ac13b9">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip21)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 182.18 83.623 L 192.26 39.582"/>
+                    <title>Vector i</title>
+                    <desc>Vector i: Vector(Ж, З)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip21 -->
+            <clipPath id="clip7c4e4df9-a285-45e3-b210-55b0e2e058ac">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip22)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 195.39 25.935 L 195.67 40.363 L 188.85 38.801 z"/>
+                    <title>Vector i</title>
+                    <desc>Vector i: Vector(Ж, З)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip22 -->
+            <clipPath id="clip045e453a-c263-4d03-9f96-817e570d7c6b">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip23)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 115.36 83.067 L 183.99 34.069"/>
+                    <title>Vector g</title>
+                    <desc>Vector g: Vector(Д, З)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip23 -->
+            <clipPath id="clip204ab06d-6dda-418b-b692-6c1545a87577">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip24)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 195.39 25.935 L 186.03 36.918 L 181.96 31.221 z"/>
+                    <title>Vector g</title>
+                    <desc>Vector g: Vector(Д, З)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip24 -->
+            <clipPath id="clip9ce662cc-3e9b-48fc-839d-9dc8fc629eb5">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip25)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 54.664 99.215 L 121.64 98.665"/>
+                    <title>Vector j</title>
+                    <desc>Vector j: Vector(Г, И)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip25 -->
+            <clipPath id="clipc19fb3b9-3276-4aeb-9bfa-0911e7cfbfbc">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip26)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 135.63 98.550 L 121.66 102.16 L 121.61 95.165 z"/>
+                    <title>Vector j</title>
+                    <desc>Vector j: Vector(Г, И)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip26 -->
+            <clipPath id="clip29b501c4-069a-48bb-a87b-94e230424aa8">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip27)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 115.36 83.067 L 124.51 90.053"/>
+                    <title>Vector k</title>
+                    <desc>Vector k: Vector(Д, И)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip27 -->
+            <clipPath id="clip10933d9f-bd3f-4595-a804-4ea2530f7f5f">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip28)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 135.63 98.550 L 122.38 92.835 L 126.63 87.271 z"/>
+                    <title>Vector k</title>
+                    <desc>Vector k: Vector(Д, И)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip28 -->
+            <clipPath id="clip5f4884f2-3d42-4a5c-933e-2477a0937262">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip29)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 135.63 98.550 L 168.85 87.898"/>
+                    <title>Vector l</title>
+                    <desc>Vector l: Vector(И, Ж)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip29 -->
+            <clipPath id="clipe052ab2e-ce93-45a1-878a-735a47efe61d">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip30)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 182.18 83.623 L 169.92 91.231 L 167.78 84.565 z"/>
+                    <title>Vector l</title>
+                    <desc>Vector l: Vector(И, Ж)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip30 -->
+            <clipPath id="clip650f6689-96b6-4b66-9ae0-447a8e30aa23">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip31)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 182.18 83.623 L 227.03 83.298"/>
+                    <title>Vector m</title>
+                    <desc>Vector m: Vector(Ж, К)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip31 -->
+            <clipPath id="clip9d6055d3-9394-4d2d-ac0d-fa67089c6a0b">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip32)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 241.03 83.197 L 227.06 86.798 L 227.00 79.798 z"/>
+                    <title>Vector m</title>
+                    <desc>Vector m: Vector(Ж, К)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip32 -->
+            <clipPath id="clip72f1645c-f2fe-4bef-9946-ce10a373ff1b">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip33)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 195.39 25.935 L 232.30 72.249"/>
+                    <title>Vector n</title>
+                    <desc>Vector n: Vector(З, К)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip33 -->
+            <clipPath id="clip8221784d-925f-43a7-a1d2-3c332983314e">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip34)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 241.03 83.197 L 229.57 74.430 L 235.04 70.067 z"/>
+                    <title>Vector n</title>
+                    <desc>Vector n: Vector(З, К)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip34 -->
+            <clipPath id="clipa998d6c7-8c89-4bc5-8e40-1df7b5587a63">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip35)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 54.664 99.215 L 79.679 72.182"/>
+                    <title>Vector p</title>
+                    <desc>Vector p: Vector(Г, В)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip35 -->
+            <clipPath id="clipf5be3d82-4a88-4ae2-9763-d4d7c6b89ae3">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip36)">
+                <g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#000000">
+                    <path d="M 89.187 61.906 L 82.248 74.559 L 77.110 69.805 z"/>
+                    <title>Vector p</title>
+                    <desc>Vector p: Vector(Г, В)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip36 -->
+            <clipPath id="clip6ae48401-8224-43a5-8684-dfe4fd27e25b">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip37)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 26.402 77.432 C 26.402 79.089 25.059 80.432 23.402 80.432 C 21.745 80.432 20.402 79.089 20.402 77.432 C 20.402 75.776 21.745 74.432 23.402 74.432 C 25.059 74.432 26.402 75.776 26.402 77.432 z"/>
+                    <title>Point А</title>
+                    <desc>А = (2.84, -0.12)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip37 -->
+            <clipPath id="clip58bfd11c-9112-428a-9b38-8c8f3689ccf1">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip38)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 26.402 77.432 C 26.402 79.089 25.059 80.432 23.402 80.432 C 21.745 80.432 20.402 79.089 20.402 77.432 C 20.402 75.776 21.745 74.432 23.402 74.432 C 25.059 74.432 26.402 75.776 26.402 77.432 z"/>
+                    <title>Point А</title>
+                    <desc>А = (2.84, -0.12)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip38 -->
+            <clipPath id="clip0b25e422-6c47-41a4-90c2-c59c312b5dcb">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip39)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 7.0000, 79.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0410;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip39 -->
+            <clipPath id="clipe2e98005-17d2-48f0-9050-444598fb167d">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip40)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 91.573 23.146 C 91.573 24.803 90.229 26.146 88.573 26.146 C 86.916 26.146 85.573 24.803 85.573 23.146 C 85.573 21.489 86.916 20.146 88.573 20.146 C 90.229 20.146 91.573 21.489 91.573 23.146 z"/>
+                    <title>Point Б</title>
+                    <desc>Б = (3.76, 0.65)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip40 -->
+            <clipPath id="clipe52f9e4e-6710-4261-92f3-eacad7222a0e">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip41)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 91.573 23.146 C 91.573 24.803 90.229 26.146 88.573 26.146 C 86.916 26.146 85.573 24.803 85.573 23.146 C 85.573 21.489 86.916 20.146 88.573 20.146 C 90.229 20.146 91.573 21.489 91.573 23.146 z"/>
+                    <title>Point Б</title>
+                    <desc>Б = (3.76, 0.65)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip41 -->
+            <clipPath id="clipe81ddc79-f0e9-469e-8731-c19439001ff2">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip42)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 87.000, 16.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0411;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip42 -->
+            <clipPath id="clip92d734b9-8a70-4b80-93d6-4d5adee7a570">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip43)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 92.187 61.906 C 92.187 63.563 90.844 64.906 89.187 64.906 C 87.531 64.906 86.187 63.563 86.187 61.906 C 86.187 60.250 87.531 58.906 89.187 58.906 C 90.844 58.906 92.187 60.250 92.187 61.906 z"/>
+                    <title>Point В</title>
+                    <desc>В = (3.77, 0.1)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip43 -->
+            <clipPath id="clipa3075a3f-16d7-47ab-8c3e-4c033b5819de">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip44)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 92.187 61.906 C 92.187 63.563 90.844 64.906 89.187 64.906 C 87.531 64.906 86.187 63.563 86.187 61.906 C 86.187 60.250 87.531 58.906 89.187 58.906 C 90.844 58.906 92.187 60.250 92.187 61.906 z"/>
+                    <title>Point В</title>
+                    <desc>В = (3.77, 0.1)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip44 -->
+            <clipPath id="clipea5b2da3-dc5e-43f1-acac-bf641866f0a5">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip45)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 85.000, 82.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0412;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip45 -->
+            <clipPath id="clipc6ff3595-2cc7-4ff0-b7a4-dee51bb62ac3">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip46)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 57.664 99.215 C 57.664 100.87 56.321 102.21 54.664 102.21 C 53.007 102.21 51.664 100.87 51.664 99.215 C 51.664 97.558 53.007 96.215 54.664 96.215 C 56.321 96.215 57.664 97.558 57.664 99.215 z"/>
+                    <title>Point Г</title>
+                    <desc>Г = (3.28, -0.43)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip46 -->
+            <clipPath id="clip9e6e301c-8a5f-4ff2-9870-8a9b05c875b4">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip47)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 57.664 99.215 C 57.664 100.87 56.321 102.21 54.664 102.21 C 53.007 102.21 51.664 100.87 51.664 99.215 C 51.664 97.558 53.007 96.215 54.664 96.215 C 56.321 96.215 57.664 97.558 57.664 99.215 z"/>
+                    <title>Point Г</title>
+                    <desc>Г = (3.28, -0.43)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip47 -->
+            <clipPath id="clip3ff84443-d9b7-40af-8bb0-f096924fd008">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip48)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 52.000, 89.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0413;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip48 -->
+            <clipPath id="clip1f4ef697-f77b-4fa0-b22e-25ac80215f25">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip49)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 118.36 83.067 C 118.36 84.723 117.02 86.067 115.36 86.067 C 113.70 86.067 112.36 84.723 112.36 83.067 C 112.36 81.410 113.70 80.067 115.36 80.067 C 117.02 80.067 118.36 81.410 118.36 83.067 z"/>
+                    <title>Point Д</title>
+                    <desc>Д = (4.14, -0.2)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip49 -->
+            <clipPath id="clip53fe28aa-ba91-49fb-bfb4-d6124f194e3d">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip50)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 118.36 83.067 C 118.36 84.723 117.02 86.067 115.36 86.067 C 113.70 86.067 112.36 84.723 112.36 83.067 C 112.36 81.410 113.70 80.067 115.36 80.067 C 117.02 80.067 118.36 81.410 118.36 83.067 z"/>
+                    <title>Point Д</title>
+                    <desc>Д = (4.14, -0.2)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip50 -->
+            <clipPath id="clip48174478-2b05-46ff-9f39-6ea4673d6129">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip51)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 113.00, 72.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0414;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip51 -->
+            <clipPath id="clip173c1903-92ff-46db-9622-bc5746ffb069">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip52)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 156.78 25.155 C 156.78 26.812 155.44 28.155 153.78 28.155 C 152.12 28.155 150.78 26.812 150.78 25.155 C 150.78 23.498 152.12 22.155 153.78 22.155 C 155.44 22.155 156.78 23.498 156.78 25.155 z"/>
+                    <title>Point Е</title>
+                    <desc>Е = (4.69, 0.62)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip52 -->
+            <clipPath id="clip25200e95-2466-4a0a-9a63-71b7333b7150">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip53)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 156.78 25.155 C 156.78 26.812 155.44 28.155 153.78 28.155 C 152.12 28.155 150.78 26.812 150.78 25.155 C 150.78 23.498 152.12 22.155 153.78 22.155 C 155.44 22.155 156.78 23.498 156.78 25.155 z"/>
+                    <title>Point Е</title>
+                    <desc>Е = (4.69, 0.62)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip53 -->
+            <clipPath id="clip72b5958e-f487-40b3-b96f-1e5f034fb3c1">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip54)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 156.00, 17.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0415;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip54 -->
+            <clipPath id="clipb30291a6-920e-4bcd-b83c-15e0ed90dec1">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip55)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 185.18 83.623 C 185.18 85.280 183.84 86.623 182.18 86.623 C 180.52 86.623 179.18 85.280 179.18 83.623 C 179.18 81.966 180.52 80.623 182.18 80.623 C 183.84 80.623 185.18 81.966 185.18 83.623 z"/>
+                    <title>Point Ж</title>
+                    <desc>Ж = (5.09, -0.21)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip55 -->
+            <clipPath id="clip0eb9f60b-b3df-4b5e-960b-12d37516f9c4">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip56)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 185.18 83.623 C 185.18 85.280 183.84 86.623 182.18 86.623 C 180.52 86.623 179.18 85.280 179.18 83.623 C 179.18 81.966 180.52 80.623 182.18 80.623 C 183.84 80.623 185.18 81.966 185.18 83.623 z"/>
+                    <title>Point Ж</title>
+                    <desc>Ж = (5.09, -0.21)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip56 -->
+            <clipPath id="clip3d0ee7b7-6bb3-4f6b-86d8-e4b0ac0a1aa7">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip57)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 182.00, 100.00)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0416;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip57 -->
+            <clipPath id="clip187d46c5-e71b-47e9-90d8-26753bde8cd1">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip58)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 198.39 25.935 C 198.39 27.592 197.04 28.935 195.39 28.935 C 193.73 28.935 192.39 27.592 192.39 25.935 C 192.39 24.278 193.73 22.935 195.39 22.935 C 197.04 22.935 198.39 24.278 198.39 25.935 z"/>
+                    <title>Point З</title>
+                    <desc>З = (5.28, 0.61)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip58 -->
+            <clipPath id="clip7e1dfc35-1bb7-464c-8793-235da833a57b">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip59)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 198.39 25.935 C 198.39 27.592 197.04 28.935 195.39 28.935 C 193.73 28.935 192.39 27.592 192.39 25.935 C 192.39 24.278 193.73 22.935 195.39 22.935 C 197.04 22.935 198.39 24.278 198.39 25.935 z"/>
+                    <title>Point З</title>
+                    <desc>З = (5.28, 0.61)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip59 -->
+            <clipPath id="clip00bfc170-0b7b-4ad2-9e9e-e2ed6dbbfcc8">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip60)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 199.00, 20.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0417;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip60 -->
+            <clipPath id="clip97365d7d-5717-4f01-9a13-992b38128a13">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip61)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 138.63 98.550 C 138.63 100.21 137.29 101.55 135.63 101.55 C 133.98 101.55 132.63 100.21 132.63 98.550 C 132.63 96.893 133.98 95.550 135.63 95.550 C 137.29 95.550 138.63 96.893 138.63 98.550 z"/>
+                    <title>Point И</title>
+                    <desc>И = (4.43, -0.42)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip61 -->
+            <clipPath id="clipbb9427b0-5201-453c-9f43-c61e2e063593">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip62)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 138.63 98.550 C 138.63 100.21 137.29 101.55 135.63 101.55 C 133.98 101.55 132.63 100.21 132.63 98.550 C 132.63 96.893 133.98 95.550 135.63 95.550 C 137.29 95.550 138.63 96.893 138.63 98.550 z"/>
+                    <title>Point И</title>
+                    <desc>И = (4.43, -0.42)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip62 -->
+            <clipPath id="clipb67e9a38-9384-4186-9d17-2c3d160c9d24">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip63)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 142.00, 111.00)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x0418;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip63 -->
+            <clipPath id="clip9d1132a3-4004-489b-8eac-ad1623f141c4">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip64)">
+                <g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#000000">
+                    <path d="M 244.03 83.197 C 244.03 84.853 242.69 86.197 241.03 86.197 C 239.37 86.197 238.03 84.853 238.03 83.197 C 238.03 81.540 239.37 80.197 241.03 80.197 C 242.69 80.197 244.03 81.540 244.03 83.197 z"/>
+                    <title>Point К</title>
+                    <desc>К = (5.92, -0.2)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip64 -->
+            <clipPath id="clipb54fffa5-b8cb-419c-82d6-9afd6000b344">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip65)">
+                <g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+                    <path d="M 244.03 83.197 C 244.03 84.853 242.69 86.197 241.03 86.197 C 239.37 86.197 238.03 84.853 238.03 83.197 C 238.03 81.540 239.37 80.197 241.03 80.197 C 242.69 80.197 244.03 81.540 244.03 83.197 z"/>
+                    <title>Point К</title>
+                    <desc>К = (5.92, -0.2)</desc>
+
+                </g> <!-- drawing style -->
+            </g> <!-- clip65 -->
+            <clipPath id="clip6d5f28eb-17cd-4bbe-8941-912d546ac2c3">
+                <path d="M 0.0000 0.0000 L 0.0000 120.00 L 261.00 120.00 L 261.00 0.0000 z"/>
+            </clipPath>
+            <g clip-path="url(#clip66)">
+                <g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, 245.00, 77.000)">
+                    <text fill-opacity="1.0000" font-style="normal" font-family="Times New Roman" font-weight="normal"
+                          stroke="none" fill="#000000" font-size="12.000" x="0" y="0">&#x041a;
+                    </text>
+                </g> <!-- transform -->
+            </g> <!-- clip66 -->
+        </g><!-- layer0 -->
+        <defs>
+            <font id="Times New Roman" horiz-adv-x="0">
+                <font-face font-family="Times New Roman" font-weight="normal" font-style="normal" font-size="100.00"
+                           units-per-em="100.00" ascent="100.53711" descent="21.972656"/>
+                <missing-glyph d=""/>
+                <glyph unicode="&#x041a;" horiz-adv-x="58.252"
+                       d="M 7.8594 71.578 L 17.328 71.578 L 17.328 40.234 Q 23.828 40.234 26.469 42.750 Q 29.109 45.266 33.203 54.828 Q 36.188 61.859 38.117 64.766 Q 40.047 67.672 43.609 69.648 Q 47.172 71.625 51.469 71.625 Q 56.938 71.625 57.234 71.531 L 57.234 63.328 Q 56.734 63.328 55.328 63.375 Q 53.766 63.422 53.422 63.422 Q 48.875 63.422 46.688 61.234 Q 44.438 59.031 41.547 51.859 Q 37.938 42.781 35.445 40.406 Q 32.953 38.031 29.500 36.625 Q 36.422 34.719 43.172 23.828 L 57.906 -0.0000 L 46.141 -0.0000 L 34.188 19.438 Q 29.250 27.484 25.930 30.492 Q 22.609 33.500 17.328 33.500 L 17.328 -0.0000 L 7.8594 -0.0000 L 7.8594 71.578 z"/>
+                <glyph unicode="&#x0418;" horiz-adv-x="71.875"
+                       d="M 7.8594 71.578 L 16.453 71.578 L 16.453 14.891 L 54.547 71.578 L 64.062 71.578 L 64.062 -0.0000 L 55.469 -0.0000 L 55.469 56.547 L 17.328 -0.0000 L 7.8594 -0.0000 L 7.8594 71.578 z"/>
+                <glyph unicode="&#x0417;" horiz-adv-x="60.400"
+                       d="M 3.8125 20.219 L 12.844 22.562 Q 13.875 17.328 18.336 12.109 Q 22.797 6.8906 30.172 6.8906 Q 37.703 6.8906 42.047 10.742 Q 46.391 14.594 46.391 20.062 Q 46.391 25.984 41.797 29.469 Q 37.203 32.953 29.297 32.953 L 24.750 32.953 L 24.750 41.219 Q 31.297 41.219 34.766 41.969 Q 38.234 42.719 40.898 45.820 Q 43.562 48.922 43.562 52.875 Q 43.562 57.562 39.922 61.031 Q 36.281 64.500 30.078 64.500 Q 24.656 64.500 20.828 61.789 Q 17.000 59.078 15.531 54.609 Q 14.062 50.141 14.062 47.953 L 4.9844 50.000 Q 8.3438 72.797 30.172 72.797 Q 40.672 72.797 46.828 66.969 Q 52.984 61.141 52.984 53.328 Q 52.984 43.312 43.500 37.797 Q 48.969 36.281 52.656 31.617 Q 56.344 26.953 56.344 20.453 Q 56.344 11.234 49.195 5.0078 Q 42.047 -1.2188 30.219 -1.2188 Q 9.9062 -1.2188 3.8125 20.219 z"/>
+                <glyph unicode="&#x0416;" horiz-adv-x="92.334"
+                       d="M 51.031 71.578 L 51.031 40.234 Q 58.016 40.234 60.625 42.797 Q 63.234 45.359 67.281 54.828 Q 70.266 61.859 72.195 64.766 Q 74.125 67.672 77.688 69.648 Q 81.250 71.625 85.500 71.625 Q 90.141 71.625 91.266 71.531 L 91.266 63.328 Q 90.828 63.328 89.406 63.375 Q 87.844 63.422 87.500 63.422 Q 82.953 63.422 80.766 61.234 Q 78.516 59.031 75.641 51.859 Q 72.516 44.094 70.219 41.289 Q 67.922 38.484 63.578 36.625 Q 70.609 34.672 77.203 23.828 L 91.938 -0.0000 L 80.219 -0.0000 L 68.266 19.438 Q 63.484 27.156 60.211 30.328 Q 56.938 33.500 51.031 33.500 L 51.031 -0.0000 L 41.312 -0.0000 L 41.312 33.500 Q 36.625 33.500 33.031 31.031 Q 29.438 28.562 24.656 20.406 L 24.078 19.438 L 12.109 -0.0000 L .34375 -0.0000 L 15.094 23.828 Q 21.828 34.719 28.766 36.625 Q 24.906 38.188 22.461 40.797 Q 20.016 43.406 16.656 51.859 Q 13.578 59.516 11.375 61.469 Q 9.1875 63.422 4.8281 63.422 L 1.0312 63.328 L 1.0312 71.531 Q 1.5625 71.625 6.5000 71.625 Q 11.188 71.625 14.625 69.703 Q 18.062 67.781 20.016 64.875 Q 21.969 61.969 25.047 54.828 Q 29.156 45.219 31.719 42.773 Q 34.281 40.328 41.312 40.234 L 41.312 71.578 L 51.031 71.578 z"/>
+                <glyph unicode="&#x0415;" horiz-adv-x="66.699"
+                       d="M 7.9062 -0.0000 L 7.9062 71.578 L 59.672 71.578 L 59.672 63.141 L 17.391 63.141 L 17.391 41.219 L 56.984 41.219 L 56.984 32.812 L 17.391 32.812 L 17.391 8.4531 L 61.328 8.4531 L 61.328 -0.0000 L 7.9062 -0.0000 z"/>
+                <glyph unicode="&#x0414;" horiz-adv-x="67.725"
+                       d="M 14.203 71.578 L 57.766 71.578 L 57.766 8.4531 L 64.203 8.4531 L 64.203 -16.703 L 55.766 -16.703 L 55.766 -0.0000 L 8.4531 -0.0000 L 8.4531 -16.703 L 0.0000 -16.703 L 0.0000 8.4531 L 5.5625 8.4531 Q 14.203 21.484 14.203 61.141 L 14.203 71.578 z M 48.297 63.141 L 23.344 63.141 L 23.344 59.469 Q 23.344 50.344 21.703 34.500 Q 20.062 18.656 15.281 8.4531 L 48.297 8.4531 L 48.297 63.141 z"/>
+                <glyph unicode="&#x0413;" horiz-adv-x="54.150"
+                       d="M 7.8594 71.578 L 54.156 71.578 L 54.156 63.141 L 17.328 63.141 L 17.328 -0.0000 L 7.8594 -0.0000 L 7.8594 71.578 z"/>
+                <glyph unicode="&#x0412;" horiz-adv-x="66.699"
+                       d="M 7.3281 -0.0000 L 7.3281 71.578 L 34.188 71.578 Q 42.391 71.578 47.344 69.406 Q 52.297 67.234 55.102 62.719 Q 57.906 58.203 57.906 53.266 Q 57.906 48.688 55.422 44.633 Q 52.938 40.578 47.906 38.094 Q 54.391 36.188 57.883 31.594 Q 61.375 27.000 61.375 20.750 Q 61.375 15.719 59.250 11.398 Q 57.125 7.0781 54.000 4.7344 Q 50.875 2.3906 46.164 1.1953 Q 41.453 -0.0000 34.625 -0.0000 L 7.3281 -0.0000 z M 16.797 41.500 L 32.281 41.500 Q 38.578 41.500 41.312 42.328 Q 44.922 43.406 46.750 45.898 Q 48.578 48.391 48.578 52.156 Q 48.578 55.719 46.875 58.430 Q 45.172 61.141 41.992 62.141 Q 38.812 63.141 31.109 63.141 L 16.797 63.141 L 16.797 41.500 z M 16.797 8.4531 L 34.625 8.4531 Q 39.203 8.4531 41.062 8.7969 Q 44.344 9.3750 46.539 10.742 Q 48.734 12.109 50.148 14.719 Q 51.562 17.328 51.562 20.750 Q 51.562 24.750 49.516 27.711 Q 47.469 30.672 43.828 31.867 Q 40.188 33.062 33.344 33.062 L 16.797 33.062 L 16.797 8.4531 z"/>
+                <glyph unicode="&#x0411;" horiz-adv-x="65.625"
+                       d="M 8.1562 71.578 L 54.594 71.578 L 54.594 63.141 L 17.625 63.141 L 17.625 41.062 L 34.719 41.062 Q 44.188 41.062 49.781 39.258 Q 55.375 37.453 58.742 32.445 Q 62.109 27.438 62.109 20.797 Q 62.109 15.375 59.695 10.664 Q 57.281 5.9531 52.492 2.9766 Q 47.703 -0.0000 36.188 -0.0000 L 8.1562 -0.0000 L 8.1562 71.578 z M 17.625 8.0625 L 36.578 8.0625 Q 44.234 8.0625 48.070 11.188 Q 51.906 14.312 51.906 20.562 Q 51.906 25.000 49.711 27.977 Q 47.516 30.953 43.609 31.930 Q 39.703 32.906 30.281 32.906 L 17.625 32.906 L 17.625 8.0625 z"/>
+                <glyph unicode="&#x0410;" horiz-adv-x="66.699"
+                       d="M -.14062 -0.0000 L 27.344 71.578 L 37.547 71.578 L 66.844 -0.0000 L 56.062 -0.0000 L 47.703 21.688 L 17.781 21.688 L 9.9062 -0.0000 L -.14062 -0.0000 z M 20.516 29.391 L 44.781 29.391 L 37.312 49.219 Q 33.891 58.250 32.234 64.062 Q 30.859 57.172 28.375 50.391 L 20.516 29.391 z"/>
+            </font>
+
+        </defs> <!-- font definitions -->
+    </g> <!-- default stroke -->
+</svg> <!-- bounding box -->
