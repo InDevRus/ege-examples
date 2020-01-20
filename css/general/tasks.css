@@ -6,9 +6,13 @@ section.task, section.task-continue {
     text-align: justify;
 }
 
-section.task:not(.sub-task),
-.sub-task-start + article.page {
+section.task:not(.sub-task) {
     counter-increment: task;
+    counter-reset: sub-task;
+}
+
+.sub-task-start + article.page {
+    counter-increment: pages task;
     counter-reset: sub-task;
 }
 
