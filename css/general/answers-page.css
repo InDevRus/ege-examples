@@ -39,3 +39,17 @@ input#answers-print-checkbox:checked + label[for="answers-print-checkbox"] {
     opacity: 1;
     background: yellow;
 }
+
+table.answers {
+    counter-reset: answers;
+}
+
+table.answers tr:first-child::before {
+    font-weight: bold;
+    content: "Номер задания";
+}
+
+table.answers tr:not(:first-child)::before {
+    content: counter(answers);
+    counter-increment: answers;
+}

@@ -3,17 +3,21 @@ table {
     border-collapse: collapse;
 }
 
-table, td, th {
+table, td, th, tr::before, tr::after {
     font-family: inherit;
     font-size: inherit;
     text-align: center;
     vertical-align: center;
 }
 
-td, th {
+td, th, tr::before, tr::after {
     border: .25mm solid black;
     min-width: 5mm;
     padding: 0 .75mm;
+}
+
+tr::before, tr::after {
+    display: table-cell;
 }
 
 td.gray-cell, th.gray-cell {
