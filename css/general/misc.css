@@ -17,7 +17,7 @@ div.two-columns > * {
     align-self: center;
 }
 
-pre {
+pre, code {
     margin: 0;
     font: inherit;
 }
