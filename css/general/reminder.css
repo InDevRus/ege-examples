@@ -6,6 +6,12 @@
     outline: 0.25mm black solid;
 }
 
+.slightly-enlarge {
+    width: 101%;
+    position: relative;
+    right: .5%;
+}
+
 .reminder.sub-task-start {
     text-align: center;
 }
