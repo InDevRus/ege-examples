@@ -31,10 +31,6 @@ ol:not(.margin-list), ul:not(.margin-list) {
     margin: 0;
 }
 
-ol > li::before {
-    float: left;
-}
-
 ol.cyrillic-parentheses-list {
     list-style: none;
 }
