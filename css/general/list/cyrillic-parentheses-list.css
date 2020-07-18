@@ -1,0 +1,19 @@
+ol.cyrillic-parentheses-list {
+    list-style: none;
+}
+
+ol.cyrillic-parentheses-list > li::before {
+    margin-right: 1mm;
+}
+
+ol.cyrillic-parentheses-list > li:nth-child(1)::before {
+    content: 'а)';
+}
+
+ol.cyrillic-parentheses-list > li:nth-child(2)::before {
+    content: 'б)';
+}
+
+ol.cyrillic-parentheses-list > li:nth-child(3)::before {
+    content: 'в)';
+}

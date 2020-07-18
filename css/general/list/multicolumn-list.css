@@ -1,0 +1,6 @@
+ol.multicolumn-list, ul.multicolumn-list {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: space-around;
+    max-height: 4cm;    
+}

@@ -1,0 +1,12 @@
+ul.big-bullet-list {
+    list-style: none;
+}
+
+ul.big-bullet-list > li::before {
+    content: '•';
+    float: left;
+    transform: translateY(1.5pt);
+    margin-right: 3mm;
+    line-height: var(--default-font-size);
+    font-size: 25px;
+}

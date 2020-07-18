@@ -2,30 +2,6 @@ li {
     text-align: start;
 }
 
-ul.big-bullet-list {
-    list-style: none;
-}
-
-ul.big-bullet-list > li::before {
-    content: '•';
-    float: left;
-    transform: translateY(1.5pt);
-    margin-right: 3mm;
-    line-height: var(--default-font-size);
-    font-size: 25px;
-}
-
-ul.bullet-list {
-    list-style-type: disc;
-}
-
-ol.multicolumn-list, ul.multicolumn-list {
-    display: flex;
-    flex-flow: column wrap;
-    align-content: space-around;
-    max-height: 4cm;    
-}
-
 ol:not(.outside-position-list), ul:not(.outside-position-list) {
     list-style-position: inside;
 }
@@ -38,22 +14,7 @@ ol:not(.margin-list), ul:not(.margin-list) {
     margin: 0;
 }
 
-ol.cyrillic-parentheses-list {
-    list-style: none;
-}
-
-ol.cyrillic-parentheses-list > li::before {
-    margin-right: 1mm;
-}
-
-ol.cyrillic-parentheses-list > li:nth-child(1)::before {
-    content: 'а)';
-}
-
-ol.cyrillic-parentheses-list > li:nth-child(2)::before {
-    content: 'б)';
-}
-
-ol.cyrillic-parentheses-list > li:nth-child(3)::before {
-    content: 'в)';
-}
+@import './list/big-bullet-list.css';
+@import './list/bullet-list.css';
+@import './list/cyrillic-parentheses-list.css';
+@import './list/multicolumn-list.css';
