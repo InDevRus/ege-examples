@@ -52,3 +52,7 @@ img {
 @page {
     margin: 0;
 }
+
+u {
+    text-decoration-skip-ink: none;
+}
