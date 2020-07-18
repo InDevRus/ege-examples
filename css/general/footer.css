@@ -12,7 +12,7 @@ article.page::after {
     '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
     '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
     '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0'
+    '\a0\a0\a0'
     var(--variant-number);
     justify-self: flex-end;
     align-self: end;

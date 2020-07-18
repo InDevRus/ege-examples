@@ -30,3 +30,7 @@ span.no-break {
     transform: translate(-38%, -50%) rotate(-90deg);
     position: absolute;
 }
+
+.indent {
+    text-indent: 2em;
+}

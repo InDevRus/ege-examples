@@ -19,6 +19,13 @@ ul.bullet-list {
     list-style-type: disc;
 }
 
+ol.multicolumn-list, ul.multicolumn-list {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: space-around;
+    max-height: 4cm;    
+}
+
 ol:not(.outside-position-list), ul:not(.outside-position-list) {
     list-style-position: inside;
 }
@@ -29,6 +36,10 @@ ol:not(.padding-list), ul:not(.padding-list) {
 
 ol:not(.margin-list), ul:not(.margin-list) {
     margin: 0;
+}
+
+ol > li::before {
+    float: left;
 }
 
 ol.cyrillic-parentheses-list {
