@@ -1,0 +1,7 @@
+ul.long-dash-list {
+    list-style: none;
+}
+
+ul.long-dash-list > li::before {
+    content: '—';
+}
