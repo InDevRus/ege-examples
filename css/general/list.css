@@ -1,3 +1,9 @@
+@import './list/big-bullet-list.css';
+@import './list/bullet-list.css';
+@import './list/cyrillic-parentheses-list.css';
+@import './list/long-dash-list.css';
+@import './list/multicolumn-list.css';
+
 li {
     text-align: start;
 }
@@ -13,9 +19,3 @@ ol:not(.padding-list), ul:not(.padding-list) {
 ol:not(.margin-list), ul:not(.margin-list) {
     margin: 0;
 }
-
-@import './list/big-bullet-list.css';
-@import './list/bullet-list.css';
-@import './list/cyrillic-parentheses-list.css';
-@import './list/long-dash-list.css';
-@import './list/multicolumn-list.css';

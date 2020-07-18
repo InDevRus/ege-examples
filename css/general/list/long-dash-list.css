@@ -4,4 +4,5 @@ ul.long-dash-list {
 
 ul.long-dash-list > li::before {
     content: '—';
+    margin-right: 1mm;
 }
