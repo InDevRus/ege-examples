@@ -1,0 +1,24 @@
+@media print {
+    input#answers-print:not(:checked) ~ div#answers-start ~ article.page {
+        display: none;
+        visibility: hidden;
+    }
+}
+
+label[for="answers-print"]::before {
+    content: "Печатать с ответами";
+}
+
+table.answers {
+    counter-reset: answers;
+}
+
+table.answers tr:first-child::before {
+    font-weight: bold;
+    content: "Номер задания";
+}
+
+table.answers tr:not(:first-child)::before {
+    content: counter(answers);
+    counter-increment: answers;
+}

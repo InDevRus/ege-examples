@@ -1,0 +1,51 @@
+@import './controls/answers-page.css';
+@import './controls/outline.css';
+
+@media print {
+    div#controls {
+        display: none;
+        visibility: hidden;
+    }
+}
+
+body > input, div#answers-start {
+    display: none;
+    visibility: hidden;
+}
+
+div#controls {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    margin: 5px;
+
+    display: flex;
+
+    flex-flow: column-reverse;
+}
+
+div#controls > label[for] {
+    border: 1px black solid;
+    background: white;
+    opacity: .25;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 5px;
+
+    transition: opacity, background-color;
+    transition-duration: .5s;
+}
+
+div#controls > label[for]::before {
+    display: inline;
+}
+
+div#controls > label[for]:hover {
+    opacity: .75;
+}
+
+input#answers-print:checked ~ div#controls > label[for="answers-print"],
+input#outline-disable:checked ~ div#controls > label[for="outline-disable"] {
+    opacity: 1;
+    background: yellow;
+}

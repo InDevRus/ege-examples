@@ -1,0 +1,7 @@
+input#outline-disable:checked ~ article.page {
+    outline: none;
+}
+
+label[for="outline-disable"]::before {
+    content: "Убрать границы";
+}
