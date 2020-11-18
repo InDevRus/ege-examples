@@ -1,0 +1,17 @@
+table.truth-table tr:first-child tr,
+table.truth-table tr:first-child th {
+    border: 2px black solid;
+}
+
+table.truth-table td:not(:last-child) {
+    width: 11mm;
+}
+
+table.truth-table td:last-child {
+    width: 20mm;
+    font-weight: bold;
+}
+
+table.truth-table td, table.truth-table th {
+    height: 4mm;
+}
