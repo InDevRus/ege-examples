@@ -1,32 +1,32 @@
-div.task-4-file-list {
+div.file-list {
     font-weight: bold;
     text-justify: distribute;
     text-align-last: justify;
 }
 
-ol.task-4-mask-list {
+ol.file-mask-list {
     list-style-type: none;
     counter-reset: masks;
 }
 
-ol.task-4-mask-list > li {
+ol.file-mask-list > li {
     font-weight: bold;
     counter-increment: masks;
 }
 
-ol.task-4-mask-list > *::before {
+ol.file-mask-list > *::before {
     font-weight: normal;
     content: counter(masks)'.\a0';
 }
 
-div.task-4-tables {
+div.database-tables {
     display: flex;
 }
 
-div.task-4-tables > table {
+div.database-tables > table {
     flex-grow: 1;
 }
 
-div.task-4-tables > table:not(:last-child) {
+div.database-tables > table:not(:last-child) {
     margin-right: 2mm;
 }
