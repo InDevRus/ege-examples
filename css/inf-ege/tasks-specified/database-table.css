@@ -1,0 +1,11 @@
+div.database-tables {
+    display: flex;
+}
+
+div.database-tables > table {
+    flex-grow: 1;
+}
+
+div.database-tables > table:not(:last-child) {
+    margin-right: 2mm;
+}
