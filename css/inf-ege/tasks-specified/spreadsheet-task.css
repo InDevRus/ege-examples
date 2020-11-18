@@ -1,0 +1,6 @@
+table.spreadsheet-task {
+    margin: 1em auto;
+    width: 100%;
+    table-layout: fixed;
+    line-height: 5mm;
+}
