@@ -1,0 +1,9 @@
+table.web-request-table {
+    width: 75%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+table.web-request-table td:first-child {
+    font-style: italic;
+}
