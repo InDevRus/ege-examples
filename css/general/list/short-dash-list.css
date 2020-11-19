@@ -1,0 +1,8 @@
+ul.short-dash-list {
+    list-style: none;
+}
+
+ul.short-dash-list > li::before {
+    content: '−';
+    margin-right: 1mm;
+}

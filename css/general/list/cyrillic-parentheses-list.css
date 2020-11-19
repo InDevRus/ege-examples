@@ -17,3 +17,7 @@ ol.cyrillic-parentheses-list > li:nth-child(2)::before {
 ol.cyrillic-parentheses-list > li:nth-child(3)::before {
     content: 'в)';
 }
+
+ol.cyrillic-parentheses-list > li:nth-child(4)::before {
+    content: 'г)';
+}
