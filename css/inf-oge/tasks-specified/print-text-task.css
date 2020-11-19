@@ -1,0 +1,5 @@
+#print-text-task-separator {
+    height: .5mm;
+    margin: 1em 0;
+    background-color: black;
+}
