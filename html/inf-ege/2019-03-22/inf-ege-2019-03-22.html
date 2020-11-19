@@ -25,6 +25,7 @@
         --document-name: 'Тренировочный вариант ЕГЭ ' var(--year) ' г.';
         --destination: 'ИНФОРМАТИКА и ИКТ, 11 класс.';
         --author: 'InDevRus';
+        --variant-number: '';
     }
 </style>
 
@@ -185,7 +186,7 @@
             переменных $ x ,$ $ y ,$ $ z ,$ $ w .$
         </div>
 
-        <table class="task-2-table">
+        <table class="truth-table">
             <tr>
                 <th></th>
                 <th></th>
@@ -231,7 +232,7 @@
             переменных, а фрагмент таблицы имел бы вид
         </div>
 
-        <table class="task-2-table">
+        <table class="truth-table">
             <tr>
                 <th></th>
                 <th></th>
@@ -259,7 +260,7 @@
         </div>
 
         <div class="two-columns">
-            <img class="task-3-scheme" src="img/task-3.svg" alt="task-3-scheme" hidden>
+            <img class="graph-scheme" src="img/task-3.svg" alt="graph-scheme" hidden>
             <table>
                 <tr>
                     <td></td>
@@ -365,7 +366,7 @@
             правнучек и т.д. При вычислении ответа учитывайте только информацию из приведённых фрагментов таблиц.
         </div>
 
-        <div class="task-4-tables">
+        <div class="database-tables">
             <table>
                 <tr>
                     <th colspan="3">Таблица 1</th>
@@ -570,7 +571,7 @@
             ячеек в формуле автоматически изменились. Каким стало числовое значение формулы в ячейке D3?
         </div>
 
-        <table class="task-7-table">
+        <table class="spreadsheet-task">
             <tr>
                 <th class="gray-cell"></th>
                 <th class="gray-cell">A</th>
@@ -861,7 +862,7 @@ def F(n):
             Сколько существует различных путей из города А в город К, проходящих через город Ж?
         </div>
 
-        <img class="task-15-scheme" src="img/task-15.svg" alt="task-15-scheme">
+        <img class="net-scheme" src="img/task-15.svg" alt="net-scheme">
     </section>
 
     <section class="task">
@@ -881,7 +882,7 @@ def F(n):
             В таблице приведены запросы и количество найденных по ним страниц некоторого сегмента сети Интернет.
         </div>
 
-        <table class="task-17-table">
+        <table class="web-request-table">
             <tr>
                 <th>Запрос</th>
                 <th>Найдено страниц</th>
@@ -1098,11 +1099,11 @@ print(M + R)
 
         <div>
             У исполнителя есть три команды, которым присвоены номера:
-            <div class="task-22-commands">
-                <div>Прибавить 1</div>
-                <div>Прибавить следующее</div>
-                <div>Умножить на 2</div>
-            </div>
+            <ol class="interpreter-commands">
+                <li>Прибавить 1</li>
+                <li>Прибавить следующее</li>
+                <li>Умножить на 2</li>
+            </ol>
         </div>
 
         <div>
@@ -1240,7 +1241,7 @@ print(s)</pre>
                 <li>
                     Найдите допущенные программистом ошибки и исправьте их. Исправление ошибки должно затрагивать
                     только строку, в которой находится ошибка. Для каждой ошибки:
-                    <ol class="task-24-objectives">
+                    <ol class="number-parentheses-list special-margin-list">
                         <li>выпишите строку, в которой сделана ошибка;</li>
                         <li>укажите, как исправить ошибку, т.е. приведите правильный вариант строки.</li>
                     </ol>
@@ -1392,9 +1393,9 @@ for i in range(0, n):
         <p></p>
 
         <div>Выполните следующие задания.</div>
-        <section class="task-26-sub-task">
+        <div class="tabletop-game-sub-task">
             <header>Задание 1</header>
-            <ol class="task-26-ordered-task-list cyrillic-parentheses-list">
+            <ol class="special-margin-list cyrillic-parentheses-list">
                 <li>Укажите все такие значения числа $ S ,$ при которых Петя может выиграть за один ход.</li>
 
                 <li>
@@ -1402,28 +1403,28 @@ for i in range(0, n):
                     минимальное значение $ S ,$ когда такая ситуация возможна.
                 </li>
             </ol>
-        </section>
+        </div>
 
-        <section class="task-26-sub-task">
+        <div class="tabletop-game-sub-task">
             <header>Задание 2</header>
             <div>
                 Укажите такое значение $ S ,$ при котором у Пети есть выигрышная стратегия, причём одновременно
                 выполняются два условия:
             </div>
-            <ul class="task-26-conditions">
+            <ul class="special-margin-list short-dash-list">
                 <li>Петя не может выиграть за один ход;</li>
                 <li>Петя может выиграть своим вторым ходом независимо от того, как будет ходить Ваня.</li>
             </ul>
             <div>Для указанного значения $ S $ опишите выигрышную стратегию Пети.</div>
-        </section>
+        </div>
     </section>
 </article>
 <article class="page">
     <section class="task-continue">
-        <section class="task-26-sub-task">
+        <div class="tabletop-game-sub-task">
             <header>Задание 3</header>
             <div>Укажите значение $ S ,$ при котором одновременно выполняются два условия:</div>
-            <ul class="task-26-conditions">
+            <ul class="special-margin-list short-dash-list">
                 <li>
                     у Вани есть выигрышная стратегия, позволяющая ему выиграть первым или вторым ходом при любой
                     игре
@@ -1431,7 +1432,7 @@ for i in range(0, n):
                 </li>
                 <li> у Вани нет стратегии, которая позволит ему гарантированно выиграть первым ходом.</li>
             </ul>
-        </section>
+        </div>
 
         <p></p>
 

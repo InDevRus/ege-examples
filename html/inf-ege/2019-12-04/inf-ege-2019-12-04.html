@@ -10,21 +10,28 @@
 
     <script type="text/x-mathjax-config" src="https://ege-examples.netlify.com/mathjaxFontConfig">
         MathJax.Hub.Config({ "HTML-CSS": { fonts : ["STIX"], matchFontHeight: false, scale: 96 } });
+
     </script>
+
     <script src="../../../mathjaxConfig.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+            crossorigin="anonymous"></script>
+
+    <script src="../../../js/pagesCounter.js"></script>
 
     <link href="../../../styles/inf-ege.css" rel="stylesheet">
 </head>
 
 <style>
     html {
-        --pages-count: '20';
         --year: '2019';
         --date: '4 декабря ' var(--year);
         --document-name: 'Тренировочный вариант ЕГЭ ' var(--year) ' г.';
         --destination: 'ИНФОРМАТИКА и ИКТ, 11 класс.';
         --author: 'InDevRus';
+        --variant-number: '';
     }
 </style>
 
@@ -183,7 +190,7 @@
             какому столбцу таблицы соответствует каждая из переменных $w$, $x$, $y$, $z$.
         </div>
 
-        <table class="task-2-table">
+        <table class="truth-table">
             <tr>
                 <th></th>
                 <th></th>
@@ -240,7 +247,7 @@
             переменных, а фрагмент таблицы имел бы вид
         </div>
 
-        <table class="task-2-table">
+        <table class="truth-table">
             <tr>
                 <th></th>
                 <th></th>
@@ -266,7 +273,7 @@
         </div>
 
         <div class="two-columns">
-            <table class="task-3-table">
+            <table class="graph-table">
                 <tr>
                     <td colspan="2" rowspan="2"></td>
                     <td colspan="7">Номер пункта</td>
@@ -363,7 +370,7 @@
                     <td class="gray-cell"></td>
                 </tr>
             </table>
-            <img alt="task-3-scheme" class="task-3-scheme" src="img/task-3.svg">
+            <img alt="graph-scheme" class="graph-scheme" src="img/task-3.svg">
         </div>
 
         <div>
@@ -385,7 +392,7 @@
             При вычислении ответа учитывайте только информацию из приведённых фрагментов таблиц.
         </div>
 
-        <div class="task-4-tables">
+        <div class="database-tables">
             <table>
                 <tr>
                     <th colspan="4">Таблица 1</th>
@@ -795,7 +802,7 @@
             ячеек в формуле автоматически изменились. Каким стало числовое значение формулы в ячейке D3?
         </div>
 
-        <table class="task-7-table">
+        <table class="spreadsheet-task">
             <tr>
                 <th class="gray-cell"></th>
                 <th class="gray-cell">A</th>
@@ -1083,7 +1090,7 @@ def F(n):
             Сколько существует различных путей из города А в город М, проходящих через город Ж?
         </div>
 
-        <img alt="task-15-scheme" class="task-15-scheme" src="img/task-15.svg">
+        <img alt="net-scheme" class="net-scheme" src="img/task-15.svg">
     </section>
 
     <section class="task">
@@ -1103,7 +1110,7 @@ def F(n):
             В таблице приведены запросы и количество найденных по ним страниц некоторого сегмента сети Интернет.
         </div>
 
-        <table class="task-17-table" style="width: 90%">
+        <table class="web-request-table" style="width: 90%">
             <tr>
                 <th>Запрос</th>
                 <th>Найдено страниц</th>
@@ -1301,11 +1308,11 @@ print(R + M)</pre>
 
         <div>
             У исполнителя есть три команды, которым присвоены номера:
-            <div class="task-22-commands">
-                <div>Прибавить 2</div>
-                <div>Прибавить 5</div>
-                <div>Умножить на 3</div>
-            </div>
+            <ol class="interpreter-commands">
+                <li>Прибавить 2</li>
+                <li>Прибавить 5</li>
+                <li>Умножить на 3</li>
+            </ol>
         </div>
 
         <div>
@@ -1453,7 +1460,7 @@ else:
                     Найдите допущенные программистом ошибки и исправьте их.
                     <br>
                     Исправление ошибки должно затрагивать только строку, в которой находится ошибка. Для каждой ошибки:
-                    <ol class="task-24-objectives">
+                    <ol class="number-parentheses-list special-margin-list">
                         <li>выпишите строку, в которой сделана ошибка;</li>
                         <li>укажите, как исправить ошибку, т.е. приведите правильный вариант строки.</li>
                     </ol>
@@ -1600,9 +1607,9 @@ for i in range(0, n):
         <p></p>
 
         <div>Выполните следующие задания.</div>
-        <section class="task-26-sub-task">
+        <div class="tabletop-game-sub-task">
             <header>Задание 1</header>
-            <ol class="task-26-ordered-task-list cyrillic-parentheses-list">
+            <ol class="special-margin-list cyrillic-parentheses-list">
                 <li>Укажите все такие значения числа $ S ,$ при которых Петя может выиграть за один ход.</li>
 
                 <li>
@@ -1610,35 +1617,35 @@ for i in range(0, n):
                     минимальное значение $ S ,$ когда такая ситуация возможна.
                 </li>
             </ol>
-        </section>
+        </div>
 
-        <section class="task-26-sub-task">
+        <div class="tabletop-game-sub-task">
             <header>Задание 2</header>
             <div>
                 Укажите такое значение $ S ,$ при котором у Пети есть выигрышная стратегия, причём одновременно
                 выполняются два условия:
             </div>
-            <ul class="task-26-conditions">
+            <ul class="special-margin-list short-dash-list">
                 <li>Петя не может выиграть за один ход;</li>
                 <li>Петя может выиграть своим вторым ходом независимо от того, как будет ходить Ваня.</li>
             </ul>
             <div>Для указанного значения $ S $ опишите выигрышную стратегию Пети.</div>
-        </section>
+        </div>
     </section>
 </article>
 <article class="page">
     <section class="task-continue">
-        <section class="task-26-sub-task">
+        <div class="tabletop-game-sub-task">
             <header>Задание 3</header>
             <div>Укажите значение $ S ,$ при котором одновременно выполняются два условия:</div>
-            <ul class="task-26-conditions">
+            <ul class="special-margin-list short-dash-list">
                 <li>
                     у Вани есть выигрышная стратегия, позволяющая ему выиграть первым или вторым ходом при любой
                     игре Пети;
                 </li>
                 <li> у Вани нет стратегии, которая позволит ему гарантированно выиграть первым ходом.</li>
             </ul>
-        </section>
+        </div>
 
         <p></p>
 

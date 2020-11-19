@@ -1,0 +1,23 @@
+ol.number-parentheses-list {
+    list-style: none;
+}
+
+ol.number-parentheses-list > li::before {
+    margin-right: 1mm;
+}
+
+ol.number-parentheses-list > li:nth-child(1)::before {
+    content: '1)';
+}
+
+ol.number-parentheses-list > li:nth-child(2)::before {
+    content: '2)';
+}
+
+ol.number-parentheses-list > li:nth-child(3)::before {
+    content: '3)';
+}
+
+ol.number-parentheses-list > li:nth-child(4)::before {
+    content: '4)';
+}

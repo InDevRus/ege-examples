@@ -1,0 +1,16 @@
+img.graph-scheme {
+    max-height: 100%;
+    height: 100%;
+    max-width: 100%;
+}
+
+table.graph-table td {
+    width: 4mm !important;
+    min-width: unset !important;
+}
+
+table.graph-table tr:nth-child(-n + 2) td,
+table.graph-table tr:nth-child(3) td:nth-child(-n + 2),
+table.graph-table td:first-child {
+    border: 2px black solid;
+}

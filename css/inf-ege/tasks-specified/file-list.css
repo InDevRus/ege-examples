@@ -1,0 +1,20 @@
+div.file-list {
+    font-weight: bold;
+    text-justify: distribute;
+    text-align-last: justify;
+}
+
+ol.file-mask-list {
+    list-style-type: none;
+    counter-reset: masks;
+}
+
+ol.file-mask-list > li {
+    font-weight: bold;
+    counter-increment: masks;
+}
+
+ol.file-mask-list > *::before {
+    font-weight: normal;
+    content: counter(masks) '.\a0';
+}
