@@ -31,6 +31,10 @@ span.no-break {
     position: absolute;
 }
 
-.indent {
+.first-line-indent {
     text-indent: 2em;
+}
+
+.bold-block {
+    font-weight: bold;
 }
