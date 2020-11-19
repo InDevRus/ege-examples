@@ -1,0 +1,24 @@
+.robot-commands-list {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    margin: 1em 0;
+}
+
+.robot-commands-list > :not(:last-child) {
+    margin-right: 4mm;
+}
+
+.robot-commands-list > :first-child {
+    margin-left: auto;
+}
+
+.robot-commands-list > :last-child {
+    margin-right: auto;
+}
+
+img.robot-field {
+    margin: 1em auto;
+    height: 5cm;
+    width: auto;
+}

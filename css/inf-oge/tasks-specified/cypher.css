@@ -1,0 +1,18 @@
+.encrypted {
+    text-align: center;
+}
+
+table.cypher-substitution {
+    margin: 1mm auto;
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+table.cypher-substitution tr:first-child td {
+    width: 12mm;
+    padding: 1mm 0 1mm 0;
+}
+
+table.cypher-substitution tr:last-child {
+    font-family: "Calibri", "Times New Roman", serif;
+}
