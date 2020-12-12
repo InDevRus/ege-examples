@@ -7,10 +7,6 @@
 @import './list/multicolumn-list.css';
 @import './list/special-margin-list.css';
 
-li {
-    text-align: start;
-}
-
 ol:not(.outside-position-list), ul:not(.outside-position-list) {
     list-style-position: inside;
 }

@@ -2,18 +2,35 @@ article.page::after {
     display: block;
     font-size: 7.58pt;
     margin-bottom: 10mm;
-    content: '\a9\a0' var(--author) ', ' var(--date) 
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
-    '\a0\a0\a0'
-    var(--variant-number);
     justify-self: flex-end;
     align-self: end;
+}
+
+article.page:nth-of-type(2n - 1)::after {
+    content: '\a9\a0' var(--author) ', ' var(--date)
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0'
+    var(--variant-number);
+}
+
+article.page:nth-of-type(2n)::after {
+    content: '\a9\a0' var(--author) ', ' var(--date)
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    '\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0'
+    var(--variant-number);
 }

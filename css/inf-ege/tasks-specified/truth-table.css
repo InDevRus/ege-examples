@@ -4,11 +4,11 @@ table.truth-table tr:first-child th {
 }
 
 table.truth-table td:not(:last-child) {
-    width: 11mm;
+    width: 10mm;
 }
 
 table.truth-table td:last-child {
-    width: 20mm;
+    width: 34mm;
     font-weight: bold;
 }
 

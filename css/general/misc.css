@@ -34,3 +34,8 @@ span.no-break {
 .first-line-indent {
     text-indent: 2em;
 }
+
+p {
+    margin-block-start: 2mm;
+    margin-block-end: 2mm;
+}
