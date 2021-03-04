@@ -37,8 +37,8 @@ section.task::before {
     text-align: center;
 
     outline: .25mm black solid;
-    outline-offset: .5mm;
-    width: 8.5mm;
+    outline-offset: .4mm;
+    width: 7.5mm;
 }
 
 section.sub-task::before {
@@ -51,6 +51,11 @@ section.task-continue:not(.no-answer-field)::after {
     margin-top: 5mm;
     margin-bottom: 7mm;
     content: 'Ответ: ___________________________.';
+}
+
+section.task.no-answer-field + section.task,
+section.task.no-answer-field + div.reminder {
+    margin-top: 7mm;
 }
 
 #detailed-part-start {

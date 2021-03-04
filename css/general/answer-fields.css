@@ -1,8 +1,8 @@
-table.two-answers-field {
+table.answers-field-2 {
     margin: 0;
 }
 
-table.two-answers-field td {
-    height: 6mm;
+table.answers-field-2 td {
+    /* height: 6mm; */
     width: 10mm;
 }

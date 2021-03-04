@@ -23,3 +23,7 @@ tr::before, tr::after {
 td.gray-cell, th.gray-cell {
     background: gray;
 }
+
+table.short-table {
+    margin: 0;
+}
