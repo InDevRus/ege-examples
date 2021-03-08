@@ -2,7 +2,7 @@
     font-weight: bold;
     font-style: italic;
     text-align: justify;
-    outline-offset: 1.10mm;
+    outline-offset: 0.5mm;
     outline: 0.25mm black solid;
 }
 
@@ -12,7 +12,7 @@
     right: .5%;
 }
 
-.reminder.sub-task-start {
+.reminder.sub-task-start, .reminder.task-start {
     text-align: center;
 }
 

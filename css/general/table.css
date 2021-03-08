@@ -7,7 +7,7 @@ table, td, th, tr::before, tr::after {
     font-family: inherit;
     font-size: inherit;
     text-align: center;
-    vertical-align: center;
+    vertical-align: middle;
 }
 
 td, th, tr::before, tr::after {
@@ -21,5 +21,9 @@ tr::before, tr::after {
 }
 
 td.gray-cell, th.gray-cell {
-    background: lightgray;
+    background: gray;
+}
+
+table.short-table {
+    margin: 0;
 }
