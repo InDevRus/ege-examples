@@ -2,7 +2,8 @@ article.page::after {
     display: block;
     font-size: 7.58pt;
     margin-bottom: 10mm;
-    content: var(--variant-number);
+    content: var(--date) '\a' var(--variant-number);
     justify-self: flex-end;
     align-self: end;
+    white-space: pre;
 }
