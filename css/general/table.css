@@ -27,3 +27,11 @@ td.gray-cell, th.gray-cell {
 table.short-table {
     margin: 0;
 }
+
+table.margin-table {
+    margin: .5em auto;
+}
+
+table.padding-table td {
+    padding: .5em;
+}

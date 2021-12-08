@@ -1,3 +1,8 @@
+table.truth-table {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
 table.truth-table tr:first-child tr,
 table.truth-table tr:first-child th {
     border: 2px black solid;

@@ -1,9 +1,14 @@
 ol.logical-operators {
     list-style: none;
     counter-reset: logical-operators;
+    margin-left: 1em;
 }
 
 ol.logical-operators > ::before {
+    display: block;
+    position: absolute;
+    margin-left: -1em;
+
     counter-increment: logical-operators;
     content: counter(logical-operators, lower-alpha) ')\00a0';
 }
