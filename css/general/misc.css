@@ -10,6 +10,7 @@ div.two-columns {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 div.two-columns > * {
