@@ -36,6 +36,15 @@ div.form-example div span {
     border-bottom: .5mm black solid;
 }
 
+div.form-example div span.emphasized-answer {
+    font-weight: bold;
+    font: 12.42pt "Comic Sans MS";
+    border-bottom: .5mm black solid;
+    font-style: italic;
+    padding-left: .5em;
+    padding-right: 1em;
+}
+
 div.manual-marker {
     position: absolute;
     color: darkgray;
