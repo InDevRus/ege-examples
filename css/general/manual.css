@@ -12,7 +12,7 @@ article.manual h4 {
     margin-bottom: 8mm;
 }
 
-article.manual > div:not(.form-example) {
+article.manual > div:not([class]) {
     text-indent: 8.6mm;
 }
 
@@ -66,5 +66,14 @@ div.good-luck-message {
     text-align: center;
     font-weight: bold;
     font-style: italic;
-    margin-top: 7mm;
+    margin-top: 4mm;
+}
+
+section.reference-materials-mat-ege h4 {
+    margin-bottom: 0;
+}
+
+section.reference-materials-mat-ege div {
+    text-align: center;
+    margin-top: 1mm;
 }
