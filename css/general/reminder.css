@@ -4,10 +4,12 @@
     text-align: justify;
     outline-offset: 0.5mm;
     outline: 0.25mm black solid;
+
+    padding: .5mm .75mm .5mm .75mm
 }
 
 .slightly-enlarge {
-    width: 101%;
+    /*width: 101%;*/
     position: relative;
     right: .5%;
 }
@@ -35,7 +37,15 @@
     margin-right: 5mm;
 }
 
+#detailed-part-start {
+    display: none;
+}
+
 #detailed-part-start ~ article.page .reminder-box > img.first-part-exclamation {
     height: 9mm;
     width: 9mm;
+}
+
+.reminder + section.task {
+    margin-top: 6mm;
 }

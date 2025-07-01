@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="14.725370633845165cm"
+     height="8.630432457584748cm"
+     viewBox="0 0 603 353"
+     >
+<title>
+
+</title>
+<g stroke-dashoffset="0.0000" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1.0000" stroke-linecap="square" stroke-miterlimit="10.000">
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clip7dc4340e-9acd-4722-9c92-4cd8261b6464">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 568.18 133.49 C 568.18 110.84 510.10 92.475 438.47 92.475 C 366.83 92.475 308.76 110.84 308.76 133.49 C 308.76 156.15 366.83 174.51 438.47 174.51 C 510.10 174.51 568.18 156.15 568.18 133.49 z"/>
+<title>Ellipse c</title>
+<desc>Ellipse c: Ellipse with foci A, B passing through C</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<clipPath id="clip4add59f8-dbfa-4646-9089-a224a918c720">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-dasharray="10.500,8.0000" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="butt">
+  <path d="M 568.18 297.56 C 568.18 274.91 510.10 256.55 438.47 256.55 C 366.83 256.55 308.76 274.91 308.76 297.56 C 308.76 320.22 366.83 338.58 438.47 338.58 C 510.10 338.58 568.18 320.22 568.18 297.56 z"/>
+<title>Ellipse c_{1}</title>
+<desc>Ellipse c_{1}: Ellipse with foci A_{1}, B_{1} passing through C_{1}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clip304e283c-5305-4072-ac24-33f4dc803886">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 308.84 299.02 C 311.34 321.30 369.66 338.87 440.16 338.58 C 510.65 338.29 567.50 320.24 568.17 297.95"/>
+<title>Arc d</title>
+<desc>Arc d: Arc(c_{1}, E, G)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clipbdd128a1-72be-47fd-a133-be3271e8e800">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 202.04 51.458 C 202.04 28.804 160.98 10.440 110.33 10.440 C 59.671 10.440 18.607 28.804 18.607 51.458 C 18.607 74.111 59.671 92.475 110.33 92.475 C 160.98 92.475 202.04 74.111 202.04 51.458 z"/>
+<title>Ellipse c_{2}</title>
+<desc>Ellipse c_{2}: Ellipse with foci A_{2}, B_{2} passing through C_{2}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clip9521c195-e7fb-4bab-977b-c2a4177bdf28">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-dasharray="10.500,8.0000" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="butt">
+  <path d="M 202.04 297.56 C 202.04 274.91 160.98 256.55 110.33 256.55 C 59.671 256.55 18.607 274.91 18.607 297.56 C 18.607 320.22 59.671 338.58 110.33 338.58 C 160.98 338.58 202.04 320.22 202.04 297.56 z"/>
+<title>Ellipse c_{3}</title>
+<desc>Ellipse c_{3}: Ellipse with foci A_{3}, B_{3} passing through C_{3}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clip89480e3d-f221-40f2-84cd-668de080abe8">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 18.665 299.02 C 20.436 321.30 61.675 338.87 111.52 338.58 C 161.37 338.29 201.57 320.24 202.04 297.95"/>
+<title>Arc d_{1}</title>
+<desc>Arc d_{1}: Arc(c_{3}, E_{1}, G_{1})</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clip89e16752-9439-4b13-99cd-4fd81135dc47">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 308.84 299.02 L 308.78 134.32"/>
+<title>Segment f</title>
+<desc>Segment f: Segment E, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+<clipPath id="clip2f06085d-2134-46d1-a258-292736ca519d">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 568.17 297.95 L 568.16 132.78"/>
+<title>Segment g</title>
+<desc>Segment g: Segment G, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+<clipPath id="clip1a038219-aa6f-4879-bcc0-2801482c2d64">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 18.665 299.02 L 18.625 52.282"/>
+<title>Segment f_{1}</title>
+<desc>Segment f_{1}: Segment E_{1}, D_{1}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+<clipPath id="clip0a726d1c-ea52-4fd6-902b-3e20973b9efc">
+  <path d="M 0.0000 0.0000 L 0.0000 354.00 L 604.00 354.00 L 604.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 202.04 297.95 L 202.03 50.741"/>
+<title>Segment g_{1}</title>
+<desc>Segment g_{1}: Segment G_{1}, F_{1}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+</g><!-- layer0 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->
