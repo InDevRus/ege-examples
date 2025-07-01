@@ -1,0 +1,7 @@
+article.manual h4 {
+    margin-bottom: 4.75mm;
+}
+
+article.manual h4:not(:first-child) {
+    margin-top: 0;
+}

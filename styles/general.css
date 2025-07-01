@@ -5,6 +5,7 @@
 @import '../css/general/layout.css';
 @import '../css/general/list.css';
 @import '../css/general/misc.css';
+@import '../css/general/mathjax-adjustments.css';
 @import '../css/general/tasks.css';
 @import '../css/general/manual.css';
 @import '../css/general/reminder.css';

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="31.280007077111453cm"
+     height="24.0444182514451cm"
+     viewBox="0 0 561 431"
+     >
+<title>
+
+</title>
+<g stroke-dashoffset="0.0000" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1.0000" stroke-linecap="square" stroke-miterlimit="10.000">
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clip7ce4f96c-0fde-44d1-8200-ee3e8f81eb44">
+  <path d="M 0.0000 0.0000 L 0.0000 432.00 L 562.00 432.00 L 562.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#330000" stroke-linecap="round">
+  <path d="M 144.45 193.73 L 127.04 224.50 L 157.82 241.90 L 175.22 211.13 L 144.45 193.73"/>
+<title>Angle α</title>
+<desc>Angle α: Angle between C, D, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<clipPath id="clipae2dac68-dbe5-4a70-83cb-ec8314811624">
+  <path d="M 0.0000 0.0000 L 0.0000 432.00 L 562.00 432.00 L 562.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#330000" stroke-linecap="round">
+  <path d="M 359.37 168.54 L 330.88 189.47 L 351.81 217.96 L 380.30 197.03 L 359.37 168.54"/>
+<title>Angle β</title>
+<desc>Angle β: Angle between C, E, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clipe05dbf1e-dbe1-42c4-a65f-343e38ec05a0">
+  <path d="M 0.0000 0.0000 L 0.0000 432.00 L 562.00 432.00 L 562.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="3.5000" fill="none" stroke="#330000" stroke-linecap="round">
+  <path d="M 245.98 14.210 L 543.85 419.61"/>
+<title>Segment f</title>
+<desc>Segment f: Segment A, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clip5987a0bb-77cc-42ff-a647-686a773b0612">
+  <path d="M 0.0000 0.0000 L 0.0000 432.00 L 562.00 432.00 L 562.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="3.5000" fill="none" stroke="#330000" stroke-linecap="round">
+  <path d="M 245.98 14.210 L 16.012 420.82"/>
+<title>Segment g</title>
+<desc>Segment g: Segment A, C</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clip9156df12-8594-4189-bbda-8bdb569ebaea">
+  <path d="M 0.0000 0.0000 L 0.0000 432.00 L 562.00 432.00 L 562.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="3.5000" fill="none" stroke="#330000" stroke-linecap="round">
+  <path d="M 16.012 420.82 L 543.85 419.61"/>
+<title>Segment h</title>
+<desc>Segment h: Segment C, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clip3dfa257b-eaee-499d-8f71-e830f4b86e7c">
+  <path d="M 0.0000 0.0000 L 0.0000 432.00 L 562.00 432.00 L 562.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="3.5000" fill="none" stroke="#330000" stroke-linecap="round">
+  <path d="M 144.45 193.73 L 543.85 419.61"/>
+<title>Segment k</title>
+<desc>Segment k: Segment D, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clip515a2f56-cd28-4e3f-92e1-982013b12c8d">
+  <path d="M 0.0000 0.0000 L 0.0000 432.00 L 562.00 432.00 L 562.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="3.5000" fill="none" stroke="#330000" stroke-linecap="round">
+  <path d="M 359.37 168.54 L 16.012 420.82"/>
+<title>Segment l</title>
+<desc>Segment l: Segment E, C</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+</g><!-- layer0 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

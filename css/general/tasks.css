@@ -4,6 +4,7 @@ html {
 
 section.task, section.task-continue {
     text-align: justify;
+    vertical-align: bottom;
 }
 
 section.task:not(.sub-task) {
@@ -48,7 +49,7 @@ section.sub-task::before {
 section.task:not(.no-answer-field)::after,
 section.task-continue:not(.no-answer-field)::after {
     display: block;
-    margin-top: 5mm;
+    margin-top: 2mm;
     margin-bottom: 7mm;
     content: 'Ответ: ___________________________.';
 }
@@ -70,4 +71,8 @@ section.task.no-answer-field + div.reminder {
 #detailed-part-start ~ article.page section.task,
 #detailed-part-start ~ article.page section.task-continue {
     margin-bottom: 7mm;
+}
+
+section.task[style*="--lower-task-number:"]::before {
+    margin-top: var(--lower-task-number);
 }

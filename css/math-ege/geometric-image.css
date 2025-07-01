@@ -1,0 +1,21 @@
+div.math-geometric-container {
+    display: grid;
+    grid-template-columns: 13fr 6fr;
+    justify-content: center;
+    width: 100%;
+}
+
+div.math-geometric-container > img.geometric-image {
+    justify-self: end;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+div.math-geometric-container > :has(~ img.geometric-image) {
+    margin-right: 5mm;
+}
+
+section.task:has(> div.math-geometric-container:last-child)::after {
+    margin-top: 0;
+}
+
