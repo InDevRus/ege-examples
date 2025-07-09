@@ -73,6 +73,6 @@ section.task.no-answer-field + div.reminder {
     margin-bottom: 7mm;
 }
 
-section.task[style*="--lower-task-number:"]::before {
-    margin-top: var(--lower-task-number);
+section.task[style*="--descend-task-number:"]::before {
+    margin-top: var(--descend-task-number);
 }
