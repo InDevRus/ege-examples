@@ -1,8 +1,12 @@
 window.MathJax = {
-    tex2jax: {inlineMath: [['$', '$']], processEscapes: true},
-    jax: ["input/TeX","output/PreviewHTML"],
-    extensions: ["tex2jax.js","MathMenu.js","MathZoom.js", "fast-preview.js", "AssistiveMML.js", "a11y/accessibility-menu.js"],
+    extensions: ["tex2jax.js", "MathMenu.js", "MathZoom.js", "fast-preview.js", "AssistiveMML.js", "a11y/accessibility-menu.js"],
+    jax: ["input/TeX", "output/PreviewHTML"],
     TeX: {
-        extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
+        extensions: ["AMSmath.js", "AMSsymbols.js", "noErrors.js", "noUndefined.js"]
+    },
+    tex2jax: {
+        inlineMath: [['$', '$']],
+        displayMath: [['$$', '$$']],
+        processEscapes: true
     },
 };
