@@ -1,6 +1,6 @@
 @import 'general.css';
 
-@import '../css/math-ege/manual.css';
-@import '../css/math-ege/geometric-image.css';
-@import '../css/math-ege/graph.css';
-@import '../css/math-ege/generic-elements.css';
+@import '../css/mat-ege/manual.css';
+@import '../css/mat-ege/geometric-image.css';
+@import '../css/mat-ege/graph.css';
+@import '../css/mat-ege/generic-elements.css';
