@@ -12,11 +12,11 @@ section.task .graph-container img {
     max-height: 5cm;
 }
 
-section.task .graph-container {
+section.task :is(.graph-container, .geometric-image):has(> .additional-formula) {
     position: relative;
 }
 
-section.task .graph-container > .additional-formula {
+section.task :is(.graph-container, .geometric-image) > .additional-formula {
     position: absolute;
     display: block;
     top: 0;

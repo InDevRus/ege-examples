@@ -63,13 +63,11 @@ section.task.no-answer-field + div.reminder {
     display: none;
 }
 
-#detailed-part-start ~ article.page section.task::after,
-#detailed-part-start ~ article.page section.task-continue::after {
+:is(:is(#detailed-part-start, article.page:has( #detailed-part-start)) ~ article.page, article.page:has( #detailed-part-start)) section:is(.task, .task-continue)::after {
     display: none;
 }
 
-#detailed-part-start ~ article.page section.task,
-#detailed-part-start ~ article.page section.task-continue {
+:is(:is(#detailed-part-start, article.page:has( #detailed-part-start)) ~ article.page, article.page:has( #detailed-part-start)) section:is(.task, .task-continue) {
     margin-bottom: 7mm;
 }
 

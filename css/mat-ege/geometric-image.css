@@ -5,13 +5,13 @@ div.math-geometric-container {
     width: 100%;
 }
 
-div.math-geometric-container > img.geometric-image {
+div.math-geometric-container :is(img, div).geometric-image {
     justify-self: end;
     max-height: 100%;
     max-width: 100%;
 }
 
-div.math-geometric-container > :has(~ img.geometric-image) {
+div.math-geometric-container > :has(~ :is(img, div).geometric-image) {
     margin-right: 5mm;
 }
 

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="11.192147267031366cm"
+     height="11.053972609413695cm"
+     viewBox="0 0 161 159"
+     >
+<title>
+
+</title>
+<g stroke-dashoffset="0.0000" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1.0000" stroke-linecap="square" stroke-miterlimit="10.000">
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clip3f1f9e5c-958b-4b4c-a54e-f81064ccdd96">
+  <path d="M 0.0000 0.0000 L 0.0000 160.00 L 162.00 160.00 L 162.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="1.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 157.13 78.371 C 157.13 119.30 123.95 152.48 83.017 152.48 C 42.085 152.48 8.9025 119.30 8.9025 78.371 C 8.9025 37.438 42.085 4.2564 83.017 4.2564 C 123.95 4.2564 157.13 37.438 157.13 78.371 z"/>
+<title>Окружность c</title>
+<desc>Окружность c: Окружность, проходящая через B и с центром в A</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<clipPath id="clip3539cd0d-77c1-4284-9846-3280185e247b">
+  <path d="M 0.0000 0.0000 L 0.0000 160.00 L 162.00 160.00 L 162.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="1.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 43.687 141.19 L 83.017 78.371"/>
+<title>Отрезок f</title>
+<desc>Отрезок f: Отрезок [C, A]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clipca4aff3e-315f-43f2-adce-0e4923b980bc">
+  <path d="M 0.0000 0.0000 L 0.0000 160.00 L 162.00 160.00 L 162.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="1.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 83.017 78.371 L 123.85 140.22"/>
+<title>Отрезок g</title>
+<desc>Отрезок g: Отрезок [A, D]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clip0c0cfc06-8149-417a-bc74-fe20ffd2f4d7">
+  <path d="M 0.0000 0.0000 L 0.0000 160.00 L 162.00 160.00 L 162.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="1.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 43.687 141.19 L 141.25 32.530"/>
+<title>Отрезок h</title>
+<desc>Отрезок h: Отрезок [C, E]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clip1b1b4111-a787-4429-8da1-56c72c21fdeb">
+  <path d="M 0.0000 0.0000 L 0.0000 160.00 L 162.00 160.00 L 162.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="1.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 123.85 140.22 L 141.25 32.530"/>
+<title>Отрезок i</title>
+<desc>Отрезок i: Отрезок [D, E]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+</g><!-- layer0 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

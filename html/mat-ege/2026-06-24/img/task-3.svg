@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="8.903889724698017cm"
+     height="7.092929102725538cm"
+     viewBox="0 0 471 375"
+     >
+<title>
+
+</title>
+<g stroke-dashoffset="0.0000" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1.0000" stroke-linecap="square" stroke-miterlimit="10.000">
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clip21bc0301-bd79-48bf-b924-a5edc4339621">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-dasharray="10.000,8.0000" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="butt">
+  <path d="M 25.428 356.44 L 184.46 276.93"/>
+<title>Отрезок f</title>
+<desc>Отрезок f: Отрезок [A, C]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<clipPath id="clip5080d956-ac12-46b6-a35a-3a8c35a79ca1">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-dasharray="10.000,8.0000" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="butt">
+  <path d="M 184.46 276.93 L 449.51 276.93"/>
+<title>Отрезок g</title>
+<desc>Отрезок g: Отрезок [C, D]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clip02f74d07-266e-4cbd-9ded-8513947fe3f3">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 449.51 276.93 L 290.48 356.44"/>
+<title>Отрезок h</title>
+<desc>Отрезок h: Отрезок [D, B]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clipfe51669c-6f76-4b8f-ae2e-22d050d78e05">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 290.48 356.44 L 25.428 356.44"/>
+<title>Отрезок i</title>
+<desc>Отрезок i: Отрезок [B, A]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clip9dc0ef49-bd24-4644-84d2-d9b7c6d719f5">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 25.428 91.390 L 25.428 356.44"/>
+<title>Отрезок j</title>
+<desc>Отрезок j: Отрезок [A_1, A]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clip3e6e4786-df1c-41fe-8a8c-8796e5296b3e">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-dasharray="10.000,8.0000" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="butt">
+  <path d="M 184.46 276.93 L 184.46 11.874"/>
+<title>Отрезок l</title>
+<desc>Отрезок l: Отрезок [C, C_1]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clipc22bbdaa-55df-4a30-8131-5778a02217c9">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 290.48 91.390 L 290.48 356.44"/>
+<title>Отрезок m</title>
+<desc>Отрезок m: Отрезок [B_1, B]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+<clipPath id="clipb8033ec5-b6d8-4ab1-8f9b-49f63bdf6268">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 449.51 276.93 L 449.51 11.874"/>
+<title>Отрезок n</title>
+<desc>Отрезок n: Отрезок [D, D_1]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+<clipPath id="clipc5ae24b4-8ea8-4c6e-a81a-37abd37fecc5">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 25.428 91.390 L 290.48 91.390"/>
+<title>Отрезок p</title>
+<desc>Отрезок p: Отрезок [A_1, B_1]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+<clipPath id="clip50fd2ffa-e095-49af-81a3-c1464d309e8e">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 290.48 91.390 L 449.51 11.874"/>
+<title>Отрезок q</title>
+<desc>Отрезок q: Отрезок [B_1, D_1]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+<clipPath id="clip5005e04c-2cab-44c3-83a8-cd0bd8a01e72">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 449.51 11.874 L 184.46 11.874"/>
+<title>Отрезок r</title>
+<desc>Отрезок r: Отрезок [D_1, C_1]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+<clipPath id="clip20055b47-344f-4dda-9b1f-45d2426504e2">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 184.46 11.874 L 25.428 91.390"/>
+<title>Отрезок s</title>
+<desc>Отрезок s: Отрезок [C_1, A_1]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+<clipPath id="clip342f901e-ab8f-4141-97eb-e6aa931c0189">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 25.428 356.44 L 290.48 91.390"/>
+<title>Отрезок t</title>
+<desc>Отрезок t: Отрезок [A, B_1]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+<clipPath id="clip298e715f-1281-454b-8a79-2189ae0f2d8f">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 290.48 91.390 L 449.51 276.93"/>
+<title>Отрезок a</title>
+<desc>Отрезок a: Отрезок [B_1, D]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+<clipPath id="clipe3234331-8cb4-4ad2-b5c6-19d1456d92ce">
+  <path d="M 0.0000 0.0000 L 0.0000 376.00 L 472.00 376.00 L 472.00 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" stroke-dasharray="10.000,8.0000" stroke-width="2.0000" fill="none" stroke="#000000" stroke-linecap="butt">
+  <path d="M 25.428 356.44 L 449.51 276.93"/>
+<title>Отрезок b</title>
+<desc>Отрезок b: Отрезок [A, D]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+</g><!-- layer0 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

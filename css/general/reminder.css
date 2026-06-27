@@ -41,7 +41,7 @@
     display: none;
 }
 
-#detailed-part-start ~ article.page .reminder-box > img.first-part-exclamation {
+:is(#detailed-part-start ~ article.page .reminder-box, #detailed-part-start ~ .reminder-box) > img.first-part-exclamation {
     height: 9mm;
     width: 9mm;
 }
