@@ -16,5 +16,6 @@ function fixSpacings() {
 
 $(() => {
     countPages();
-    setTimeout(fixSpacings, 1000);
+    new Promise(resolve => setTimeout(resolve, 1000))
+        .then(fixSpacings);
 });
