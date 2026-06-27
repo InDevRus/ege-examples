@@ -21,6 +21,8 @@
             integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
             crossorigin="anonymous"></script>
 
+    <script src="../../../js/generators/mat-ege-2025.js"></script>
+
     <script src="../../../mathjaxConfig.js"></script>
 
     <script async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?locale=ru"></script>
@@ -29,16 +31,6 @@
 
     <link href="../../../styles/mat-ege.css" rel="stylesheet">
 </head>
-
-<style>
-    html {
-        --year: '2025';
-        --date: '23 июня ' var(--year);
-        --document-name: 'Резервная волна ЕГЭ ' var(--year) ' г.';
-        --destination: 'МАТЕМАТИКА, 11 класс. Профильный уровень.';
-        --author: 'InDevRus';
-    }
-</style>
 
 <body>
 
@@ -52,78 +44,7 @@
     $\renewcommand{\ge}{\geqslant}$
 </div>
 
-<article class="page manual">
-    <h3>
-        Единый государственный экзамен по МАТЕМАТИКЕ
-    </h3>
-
-    <h4>
-        Профильный уровень
-    </h4>
-
-    <h4>
-        Инструкция по выполнению работы
-    </h4>
-
-    <div>
-        Экзаменационная работа состоит из двух частей, включающих в себя 19 заданий. Часть 1 содержит 12 заданий с
-        кратким ответом базового и повышенного уровней сложности. Часть 2 содержит 7 заданий с развёрнутым ответом
-        повышенного и высокого уровней сложности.
-    </div>
-
-    <div>
-        На выполнение экзаменационной работы по математике отводится 3 часа 55 минут (235 минут).
-    </div>
-
-    <div>
-        Ответы к заданиям 1–12 записываются по приведённому ниже <u>образцу</u> в виде целого числа или конечной
-        десятичной дроби. Числа запишите в поля ответов в тексте работы, а затем перенесите их в бланк ответов № 1.
-    </div>
-
-    <div class="form-example">
-        <div class="manual-marker kim-marker">КИМ</div>
-        <div class="manual-marker form-marker">Бланк</div>
-        <div>Ответ: <span class="emphasized-answer">-0,8</span></div>
-        <img alt="form-example" src="../../../images/math-form-example.jpg">
-    </div>
-
-    <div>
-        При выполнении заданий 13–19 требуется записать полное решение и ответ в бланке ответов № 2.
-    </div>
-
-    <div>
-        Все бланки ЕГЭ заполняются яркими чёрными чернилами. Допускается использование гелевой или капиллярной ручки.
-    </div>
-
-    <div>
-        При выполнении заданий можно пользоваться черновиком. <b>Записи в черновике не учитываются при оценивании
-        работы.</b>
-    </div>
-
-    <div>
-        Баллы, полученные Вами за выполненные задания, суммируются. Постарайтесь выполнить как можно больше заданий и
-        набрать наибольшее количество баллов.
-    </div>
-
-    <div>
-        После завершения работы проверьте, чтобы ответ на каждое задание в бланках ответов № 1 и № 2 был записан под
-        правильным номером.
-    </div>
-
-    <div class="good-luck-message">
-        Желаем успеха!
-    </div>
-
-    <section class="reference-materials-mat-ege">
-        <h4>Справочные материалы</h4>
-        <div>$ \sin \br{2 \alpha} = 2 \sin \alpha \cdot \cos \alpha $</div>
-        <div>$ \cos \br{2 \alpha} = \cos ^{2} \alpha - \sin ^{2} \alpha $</div>
-        <div>$ \sin \br{\alpha + \beta} = \sin \alpha \cdot \cos \beta + \cos \alpha \cdot \sin \beta $</div>
-        <div>$ \cos \br{\alpha + \beta} = \cos \alpha \cdot \cos \beta - \sin \alpha \cdot \sin \beta $</div>
-    </section>
-
-
-</article>
+<article class="page manual generate-manual"></article>
 
 <article class="page">
     <header class="part-header">Часть 1</header>
