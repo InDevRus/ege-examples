@@ -31,10 +31,10 @@ function generateManualPage() {
             'был записан под правильным номером.</div>')
         .append('<div class="good-luck-message">Желаем успеха!</div>')
         .append($('<section class="supporting-materials">').append('<h4>Справочные материалы</h4>')
-            .append(String.raw`<div>$ \sin \br{2 \alpha} = 2 \sin \alpha \cdot \cos \alpha $</div>`)
-            .append(String.raw`<div>$ \cos \br{2 \alpha} = \cos ^{2} \alpha - \sin ^{2} \alpha $</div>`)
-            .append(String.raw`<div>$ \sin \br{\alpha + \beta} = \sin \alpha \cdot \cos \beta + \cos \alpha \cdot \sin \beta $</div>`)
-            .append(String.raw`<div>$ \cos \br{\alpha + \beta} = \cos \alpha \cdot \cos \beta - \sin \alpha \cdot \sin \beta $</div>`)
+            .append(String.raw`<div>$ \sin \br{2 \text{α}} = 2 \sin \text{α} \cdot \cos \text{α} $</div>`)
+            .append(String.raw`<div>$ \cos \br{2 \text{α}} = \cos ^{2} \text{α} - \sin ^{2} \text{α} $</div>`)
+            .append(String.raw`<div>$ \sin \br{\text{α} + \text{β}} = \sin \text{α} \cdot \cos \text{β} + \cos \text{α} \cdot \sin \text{β} $</div>`)
+            .append(String.raw`<div>$ \cos \br{\text{α} + \text{β}} = \cos \text{α} \cdot \cos \text{β} - \sin \text{α} \cdot \sin \text{β} $</div>`)
         );
 }
 
